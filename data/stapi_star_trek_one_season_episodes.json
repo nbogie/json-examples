@@ -1,0 +1,655 @@
+{
+  "season": {
+    "uid": "SAMA0000001633",
+    "title": "TNG Season 1",
+    "series": {
+      "uid": "SEMA0000062876",
+      "title": "Star Trek: The Next Generation",
+      "abbreviation": "TNG",
+      "productionStartYear": 1987,
+      "productionEndYear": 1994,
+      "originalRunStartDate": "1987-09-28",
+      "originalRunEndDate": "1994-05-23",
+      "seasonsCount": 7,
+      "episodesCount": 176,
+      "featureLengthEpisodesCount": 2,
+      "productionCompany": {
+        "uid": "COMA0000001845",
+        "name": "Paramount Pictures"
+      },
+      "originalBroadcaster": {
+        "uid": "COMA0000067852",
+        "name": "Viacom (1971-2005)"
+      }
+    },
+    "seasonNumber": 1,
+    "numberOfEpisodes": 25,
+    "episodes": [
+      {
+        "uid": "EPMA0000000508",
+        "title": "Home Soil",
+        "titleGerman": "Ein Planet wehrt sich",
+        "titleItalian": null,
+        "titleJapanese": "神に似た人々",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 18,
+        "productionSerialNumber": "40271-117",
+        "featureLength": false,
+        "stardateFrom": 41463.9,
+        "stardateTo": 41463.9,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-02-22",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000500",
+        "title": "Hide and Q",
+        "titleGerman": "Rikers Versuchung",
+        "titleItalian": null,
+        "titleJapanese": "死のゲーム・TNG",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 10,
+        "productionSerialNumber": "40271-111",
+        "featureLength": false,
+        "stardateFrom": 41590.5,
+        "stardateTo": 41590.5,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-11-23",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000509",
+        "title": "Coming of Age",
+        "titleGerman": "Prüfungen",
+        "titleItalian": null,
+        "titleJapanese": "宇宙戦士への道",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 19,
+        "productionSerialNumber": "40271-119",
+        "featureLength": false,
+        "stardateFrom": 41461.2,
+        "stardateTo": 41461.2,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-03-14",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000497",
+        "title": "Lonely Among Us",
+        "titleGerman": "Die geheimnisvolle Kraft",
+        "titleItalian": null,
+        "titleJapanese": "姿なき宇宙人",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "productionSerialNumber": "40271-108",
+        "featureLength": false,
+        "stardateFrom": 41249.3,
+        "stardateTo": 41249.3,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-11-02",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000515",
+        "title": "We'll Always Have Paris",
+        "titleGerman": "Begegnung mit der Vergangenheit",
+        "titleItalian": null,
+        "titleJapanese": "時のはざまに",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 24,
+        "productionSerialNumber": "40271-124",
+        "featureLength": false,
+        "stardateFrom": 41697.9,
+        "stardateTo": 41697.9,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-05-02",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000514",
+        "title": "Skin of Evil",
+        "titleGerman": "Die schwarze Seele",
+        "titleItalian": null,
+        "titleJapanese": "悲しみの星に消えたターシャ",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 23,
+        "productionSerialNumber": "40271-122",
+        "featureLength": false,
+        "stardateFrom": 41601.3,
+        "stardateTo": 41602.1,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-04-25",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000517",
+        "title": "The Neutral Zone",
+        "titleGerman": "Die neutrale Zone",
+        "titleItalian": null,
+        "titleJapanese": "突然の訪問者",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 26,
+        "productionSerialNumber": "40271-126",
+        "featureLength": false,
+        "stardateFrom": 41986,
+        "stardateTo": 41986,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-05-16",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000510",
+        "title": "Heart of Glory",
+        "titleGerman": "Worfs Brüder",
+        "titleItalian": null,
+        "titleJapanese": "さまよえるクリンゴン戦士",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 20,
+        "productionSerialNumber": "40271-120",
+        "featureLength": false,
+        "stardateFrom": 41503.7,
+        "stardateTo": 41503.7,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-03-21",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000513",
+        "title": "Symbiosis",
+        "titleGerman": "Die Seuche",
+        "titleItalian": "Simbiosi",
+        "titleJapanese": "禁断の秘薬",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 22,
+        "productionSerialNumber": "40271-123",
+        "featureLength": false,
+        "stardateFrom": null,
+        "stardateTo": null,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-04-18",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000496",
+        "title": "Where No One Has Gone Before",
+        "titleGerman": "Der Reisende",
+        "titleItalian": "Dove nessuno è mai giunto prima",
+        "titleJapanese": "宇宙の果てから来た男",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "productionSerialNumber": "40271-106",
+        "featureLength": false,
+        "stardateFrom": 41263.1,
+        "stardateTo": 41263.1,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-10-26",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000512",
+        "title": "The Arsenal of Freedom",
+        "titleGerman": "Die Waffenhändler",
+        "titleItalian": null,
+        "titleJapanese": "生き返った死の宇宙商人",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 21,
+        "productionSerialNumber": "40271-121",
+        "featureLength": false,
+        "stardateFrom": 41798.2,
+        "stardateTo": 41798.2,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-04-11",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000501",
+        "title": "Haven",
+        "titleGerman": "Die Frau seiner Träume",
+        "titleItalian": "Haven",
+        "titleJapanese": "夢の人",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 11,
+        "productionSerialNumber": "40271-105",
+        "featureLength": false,
+        "stardateFrom": 41294.5,
+        "stardateTo": 41294.5,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-11-30",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000503",
+        "title": "Datalore",
+        "titleGerman": "Das Duplikat",
+        "titleItalian": "Datalore",
+        "titleJapanese": "アンドロイドの裏切り",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 13,
+        "productionSerialNumber": "40271-114",
+        "featureLength": false,
+        "stardateFrom": 41242.4,
+        "stardateTo": 41242.4,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-01-18",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000506",
+        "title": "Too Short a Season",
+        "titleGerman": "Die Entscheidung des Admirals",
+        "titleItalian": null,
+        "titleJapanese": "大いなる償い",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 16,
+        "productionSerialNumber": "40271-112",
+        "featureLength": false,
+        "stardateFrom": 41309.5,
+        "stardateTo": 41309.5,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-02-08",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000491",
+        "title": "Code of Honor",
+        "titleGerman": "Der Ehrenkodex",
+        "titleItalian": "Codice d'onore",
+        "titleJapanese": "愛なき惑星",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 4,
+        "productionSerialNumber": "40271-104",
+        "featureLength": false,
+        "stardateFrom": 41235.25,
+        "stardateTo": 41235.25,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-10-12",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000504",
+        "title": "Angel One",
+        "titleGerman": "Planet Angel One",
+        "titleItalian": null,
+        "titleJapanese": "奪われた女神達の惑星",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "productionSerialNumber": "40271-115",
+        "featureLength": false,
+        "stardateFrom": 41636.9,
+        "stardateTo": 41636.9,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-01-25",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000498",
+        "title": "Justice",
+        "titleGerman": "Das Gesetz der Edo",
+        "titleItalian": null,
+        "titleJapanese": "神からの警告",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 8,
+        "productionSerialNumber": "40271-109",
+        "featureLength": false,
+        "stardateFrom": 41255.6,
+        "stardateTo": 41255.6,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-11-09",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000499",
+        "title": "The Battle",
+        "titleGerman": "Die Schlacht von Maxia",
+        "titleItalian": null,
+        "titleJapanese": "復讐のフェレンギ星人",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 9,
+        "productionSerialNumber": "40271-110",
+        "featureLength": false,
+        "stardateFrom": 41723.9,
+        "stardateTo": 41723.9,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-11-16",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000483",
+        "title": "Encounter at Farpoint",
+        "titleGerman": "Der Mächtige",
+        "titleItalian": "Incontro a Farpoint",
+        "titleJapanese": "未知への飛翔",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "productionSerialNumber": "101-102/721",
+        "featureLength": true,
+        "stardateFrom": 41153.7,
+        "stardateTo": 41153.7,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-09-28",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000507",
+        "title": "When The Bough Breaks",
+        "titleGerman": "Die Sorge der Aldeaner",
+        "titleItalian": null,
+        "titleJapanese": "死に急ぐ惑星アルデア",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 17,
+        "productionSerialNumber": "40271-118",
+        "featureLength": false,
+        "stardateFrom": 41509.1,
+        "stardateTo": 41509.1,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-02-15",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000495",
+        "title": "The Last Outpost",
+        "titleGerman": "Der Wächter",
+        "titleItalian": null,
+        "titleJapanese": "謎の宇宙生命体",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "productionSerialNumber": "40271-107",
+        "featureLength": false,
+        "stardateFrom": 41386.4,
+        "stardateTo": 41386.4,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-10-19",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000516",
+        "title": "Conspiracy",
+        "titleGerman": "Die Verschwörung",
+        "titleItalian": null,
+        "titleJapanese": "恐るべき陰謀",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 25,
+        "productionSerialNumber": "40271-125",
+        "featureLength": false,
+        "stardateFrom": 41775.5,
+        "stardateTo": 41780.2,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-05-09",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000502",
+        "title": "The Big Goodbye",
+        "titleGerman": "Der große Abschied",
+        "titleItalian": null,
+        "titleJapanese": "宇宙空間の名探偵",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 12,
+        "productionSerialNumber": "40271-113",
+        "featureLength": false,
+        "stardateFrom": 41997.7,
+        "stardateTo": 41997.7,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-01-11",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000505",
+        "title": "11001001",
+        "titleGerman": "11001001",
+        "titleItalian": null,
+        "titleJapanese": "盗まれたエンタープライズ",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 15,
+        "productionSerialNumber": "40271-116",
+        "featureLength": false,
+        "stardateFrom": 41365.9,
+        "stardateTo": 41365.9,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1988-02-01",
+        "finalScriptDate": null
+      },
+      {
+        "uid": "EPMA0000000488",
+        "title": "The Naked Now",
+        "titleGerman": "Gedankengift",
+        "titleItalian": null,
+        "titleJapanese": "未知からの誘惑",
+        "series": {
+          "uid": "SEMA0000062876",
+          "title": "Star Trek: The Next Generation"
+        },
+        "season": {
+          "uid": "SAMA0000001633",
+          "title": "TNG Season 1"
+        },
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "productionSerialNumber": "40271-103",
+        "featureLength": false,
+        "stardateFrom": 41209.2,
+        "stardateTo": 41209.2,
+        "yearFrom": 2364,
+        "yearTo": 2364,
+        "usAirDate": "1987-10-05",
+        "finalScriptDate": null
+      }
+    ]
+  }
+}

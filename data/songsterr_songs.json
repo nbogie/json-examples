@@ -1,0 +1,2690 @@
+[
+  {
+    "id": 115,
+    "type": "Song",
+    "title": "No Woman No Cry",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 259,
+    "type": "Song",
+    "title": "Redemption Song",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 12130,
+    "type": "Song",
+    "title": "Africa Unite",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 12459,
+    "type": "Song",
+    "title": "Concrete Jungle",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 12614,
+    "type": "Song",
+    "title": "Is This Love",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 12690,
+    "type": "Song",
+    "title": "Survival",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 12709,
+    "type": "Song",
+    "title": "Jammin",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 13578,
+    "type": "Song",
+    "title": "I Shot The Sheriff",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 19635,
+    "type": "Song",
+    "title": "Three Little Birds",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 27211,
+    "type": "Song",
+    "title": "Smoke Two Joints",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 27213,
+    "type": "Song",
+    "title": "Buffalo Soldier",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 27214,
+    "type": "Song",
+    "title": "Burnin And Lootin",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 27215,
+    "type": "Song",
+    "title": "Could You Be Loved",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 27217,
+    "type": "Song",
+    "title": "Waiting In Vain",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 27218,
+    "type": "Song",
+    "title": "Iron Lion Zion",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 27219,
+    "type": "Song",
+    "title": "One Love",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 29437,
+    "type": "Song",
+    "title": "Stir It Up (Bass Intro)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 69222,
+    "type": "Song",
+    "title": "Stir It Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 82041,
+    "type": "Song",
+    "title": "Three Little Birds(Jmdenver Arrangement)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 84240,
+    "type": "Song",
+    "title": "No Woman No Cry (Arranged For One Acoustic Guitar)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 90560,
+    "type": "Song",
+    "title": "No Woman, Nuh Cry",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 288004,
+    "type": "Song",
+    "title": "Chances Are",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288005,
+    "type": "Song",
+    "title": "Real Situation",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288006,
+    "type": "Song",
+    "title": "Pimpers Paradise",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288007,
+    "type": "Song",
+    "title": "Sun Is Shining",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288008,
+    "type": "Song",
+    "title": "If The Cap Fits",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288009,
+    "type": "Song",
+    "title": "So Jah Say",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288010,
+    "type": "Song",
+    "title": "Bad Card",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288011,
+    "type": "Song",
+    "title": "Hurting Inside",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288012,
+    "type": "Song",
+    "title": "Running Away",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288013,
+    "type": "Song",
+    "title": "Hammer",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288014,
+    "type": "Song",
+    "title": "Exodus",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288015,
+    "type": "Song",
+    "title": "Crisis",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288016,
+    "type": "Song",
+    "title": "Guava Jelly",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288017,
+    "type": "Song",
+    "title": "Trench Town Rock",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288018,
+    "type": "Song",
+    "title": "Cheer Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288019,
+    "type": "Song",
+    "title": "Soul Shake Down Party",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288020,
+    "type": "Song",
+    "title": "African Herbman",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288021,
+    "type": "Song",
+    "title": "Rivers Of Babylon",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288022,
+    "type": "Song",
+    "title": "Baby Weve Got A Date",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288023,
+    "type": "Song",
+    "title": "I Dont Want To Wait In Vain",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288024,
+    "type": "Song",
+    "title": "Roots Rock Raggae",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288025,
+    "type": "Song",
+    "title": "Time Will Tell",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288026,
+    "type": "Song",
+    "title": "Babylon By Bus",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288027,
+    "type": "Song",
+    "title": "War",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288028,
+    "type": "Song",
+    "title": "Zion Train",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288029,
+    "type": "Song",
+    "title": "By The Rivers Of Babylon",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288030,
+    "type": "Song",
+    "title": "Johnny Was",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288031,
+    "type": "Song",
+    "title": "Kinky Reggae",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288032,
+    "type": "Song",
+    "title": "Who The Cap Fit",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288033,
+    "type": "Song",
+    "title": "Want More",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288034,
+    "type": "Song",
+    "title": "African Herbsman",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288035,
+    "type": "Song",
+    "title": "Get Up Stand Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 288036,
+    "type": "Song",
+    "title": "There She Goes",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288037,
+    "type": "Song",
+    "title": "Do It Twice",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288038,
+    "type": "Song",
+    "title": "No Woman No Cry Acoustic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288039,
+    "type": "Song",
+    "title": "Turn Your Lights Down Low",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288040,
+    "type": "Song",
+    "title": "Redempition Song",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["TEXT_GUITAR_TAB", "CHORDS"]
+  },
+  {
+    "id": 288041,
+    "type": "Song",
+    "title": "Oppressed Song",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB"]
+  },
+  {
+    "id": 288042,
+    "type": "Song",
+    "title": "Them Belly Full",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_GUITAR_TAB", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 357345,
+    "type": "Song",
+    "title": "Caution",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["PLAYER", "CHORDS"]
+  },
+  {
+    "id": 358915,
+    "type": "Song",
+    "title": "Slave Driver",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358916,
+    "type": "Song",
+    "title": "Walk The Proud Land",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358917,
+    "type": "Song",
+    "title": "No Cry No Woman",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358918,
+    "type": "Song",
+    "title": "Under The Coconut Tree",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358919,
+    "type": "Song",
+    "title": "Easy Skanking",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358920,
+    "type": "Song",
+    "title": "Cry To Me",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358921,
+    "type": "Song",
+    "title": "Mix Up Mix Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358922,
+    "type": "Song",
+    "title": "Positive Vibration",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358923,
+    "type": "Song",
+    "title": "Rastaman Chant",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358924,
+    "type": "Song",
+    "title": "Stirr It Up (easy Way)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358925,
+    "type": "Song",
+    "title": "All In One",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358926,
+    "type": "Song",
+    "title": "Stand Up Get Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358927,
+    "type": "Song",
+    "title": "No More Trouble",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358928,
+    "type": "Song",
+    "title": "Rainbow Country",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358929,
+    "type": "Song",
+    "title": "Lively Up Yourself",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358930,
+    "type": "Song",
+    "title": "Put It On",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358931,
+    "type": "Song",
+    "title": "Natural Mystic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358932,
+    "type": "Song",
+    "title": "Stiff Necked Fools",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358933,
+    "type": "Song",
+    "title": "Sun Is Shinning",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358934,
+    "type": "Song",
+    "title": "Kaya",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358935,
+    "type": "Song",
+    "title": "Redenption Song (intro)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358936,
+    "type": "Song",
+    "title": "Rastaman Live Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358937,
+    "type": "Song",
+    "title": "I Shot The Sherrif",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358938,
+    "type": "Song",
+    "title": "Comin In From The Cold",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358939,
+    "type": "Song",
+    "title": "Zimbabwe",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358940,
+    "type": "Song",
+    "title": "Mr.brown",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358941,
+    "type": "Song",
+    "title": "Waiting In Vain Bass Tab",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358942,
+    "type": "Song",
+    "title": "Mellow Mood",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358943,
+    "type": "Song",
+    "title": "Catch A Fire",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358944,
+    "type": "Song",
+    "title": "One Drop",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358945,
+    "type": "Song",
+    "title": "Bend Down Low",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358946,
+    "type": "Song",
+    "title": "3 Litttle Birds",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358947,
+    "type": "Song",
+    "title": "Buffalo Soldier Bass Tab",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358948,
+    "type": "Song",
+    "title": "Rock It Baby",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358949,
+    "type": "Song",
+    "title": "Roots Rock Reggae",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358950,
+    "type": "Song",
+    "title": "Remeption Song Intro Only But It's Good",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358951,
+    "type": "Song",
+    "title": "Natty Dread",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358952,
+    "type": "Song",
+    "title": "Simmer Down",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358953,
+    "type": "Song",
+    "title": "Forever Loving Jah",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358954,
+    "type": "Song",
+    "title": "Crazy Baldheads",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358955,
+    "type": "Song",
+    "title": "Stur It Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358956,
+    "type": "Song",
+    "title": "Punky Reggae Party",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358957,
+    "type": "Song",
+    "title": "Night Shift",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358958,
+    "type": "Song",
+    "title": "Don't Rock My Boat",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358959,
+    "type": "Song",
+    "title": "Hotel California",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358960,
+    "type": "Song",
+    "title": "Stop That Train",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358961,
+    "type": "Song",
+    "title": "Soul Rebel",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358962,
+    "type": "Song",
+    "title": "You Can't Blame The Youth",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358963,
+    "type": "Song",
+    "title": "400 Years",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358964,
+    "type": "Song",
+    "title": "I Know A Place",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358965,
+    "type": "Song",
+    "title": "So Much Trouble In The World",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358966,
+    "type": "Song",
+    "title": "Rat Race",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358967,
+    "type": "Song",
+    "title": "Jah Live",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358968,
+    "type": "Song",
+    "title": "Buffalo Solider",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358969,
+    "type": "Song",
+    "title": "Can't You See",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["TEXT_BASS_TAB"]
+  },
+  {
+    "id": 358970,
+    "type": "Song",
+    "title": "Slogans",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS", "TEXT_BASS_TAB"]
+  },
+  {
+    "id": 371494,
+    "type": "Song",
+    "title": "Im Still Waiting",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371495,
+    "type": "Song",
+    "title": "Satisfy My Soul",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371496,
+    "type": "Song",
+    "title": "Screwface",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371497,
+    "type": "Song",
+    "title": "Pass It On",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371498,
+    "type": "Song",
+    "title": "Top Rankin",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371499,
+    "type": "Song",
+    "title": "Soul Captives",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371500,
+    "type": "Song",
+    "title": "So Much Things To Say",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371501,
+    "type": "Song",
+    "title": "Rebel Music",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371502,
+    "type": "Song",
+    "title": "Judge Not",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371503,
+    "type": "Song",
+    "title": "This Train",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371504,
+    "type": "Song",
+    "title": "Revolution",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371505,
+    "type": "Song",
+    "title": "The Heathen",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371506,
+    "type": "Song",
+    "title": "We And Dem",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371507,
+    "type": "Song",
+    "title": "Work",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371508,
+    "type": "Song",
+    "title": "Shes Gone",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371509,
+    "type": "Song",
+    "title": "Chant Down Babylon",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371510,
+    "type": "Song",
+    "title": "Looking In Your Big Brown Eyes",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371511,
+    "type": "Song",
+    "title": "Duppy Conqueror",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371512,
+    "type": "Song",
+    "title": "Soul Rebel Acoustic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371513,
+    "type": "Song",
+    "title": "Lick Samba",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371514,
+    "type": "Song",
+    "title": "Dewdrops",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371515,
+    "type": "Song",
+    "title": "Back Out",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371516,
+    "type": "Song",
+    "title": "Whos The Cap Fit",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371517,
+    "type": "Song",
+    "title": "Who Colt The Game",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371518,
+    "type": "Song",
+    "title": "Hallelujah Time",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371519,
+    "type": "Song",
+    "title": "Acoustic Medley",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371520,
+    "type": "Song",
+    "title": "Stand Alone",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371521,
+    "type": "Song",
+    "title": "Redmeption Song",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371522,
+    "type": "Song",
+    "title": "Time Will Tell Acoustic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371523,
+    "type": "Song",
+    "title": "So Jah Seh",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371524,
+    "type": "Song",
+    "title": "Keep On Moving",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371525,
+    "type": "Song",
+    "title": "Dont Worry About A Thing",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371526,
+    "type": "Song",
+    "title": "Coming In From The Cold",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371527,
+    "type": "Song",
+    "title": "Cry To Me Acoustic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371528,
+    "type": "Song",
+    "title": "Am-a-do",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371529,
+    "type": "Song",
+    "title": "Thank You Lord",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371530,
+    "type": "Song",
+    "title": "Knocking On Heavens Door",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371531,
+    "type": "Song",
+    "title": "Talkin Blues",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371532,
+    "type": "Song",
+    "title": "Ambush In The Night",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371533,
+    "type": "Song",
+    "title": "One Foundation",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371534,
+    "type": "Song",
+    "title": "Ride Natty Ride",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371535,
+    "type": "Song",
+    "title": "Nice Time",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371536,
+    "type": "Song",
+    "title": "Misty Morning",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371537,
+    "type": "Song",
+    "title": "Buffalo Soilder",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371538,
+    "type": "Song",
+    "title": "Im Hurting Inside",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371539,
+    "type": "Song",
+    "title": "Jamming",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371540,
+    "type": "Song",
+    "title": "All Day And All Night",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371541,
+    "type": "Song",
+    "title": "High Tide Or Low Tide",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371542,
+    "type": "Song",
+    "title": "Legend",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371543,
+    "type": "Song",
+    "title": "One Cup Of Coffee",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371544,
+    "type": "Song",
+    "title": "Everythings Gonna Be Alright",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371545,
+    "type": "Song",
+    "title": "How Many Times",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371546,
+    "type": "Song",
+    "title": "Smile Jamaica",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371547,
+    "type": "Song",
+    "title": "Waiting In Vain New Key",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371548,
+    "type": "Song",
+    "title": "Babylon System",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371549,
+    "type": "Song",
+    "title": "Redemption Songs",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371550,
+    "type": "Song",
+    "title": "Small Axe",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 371551,
+    "type": "Song",
+    "title": "Guiltiness",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": true,
+    "tabTypes": ["CHORDS"]
+  },
+  {
+    "id": 385489,
+    "type": "Song",
+    "title": "No Woman No Cry (Ukulele)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 386853,
+    "type": "Song",
+    "title": "I Shot The Sheriff (Submitted By Www.Nicebasslines.Com",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 400433,
+    "type": "Song",
+    "title": "One Love/People Get Ready (Bass)",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415804,
+    "type": "Song",
+    "title": "Get Up Stand Up",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415805,
+    "type": "Song",
+    "title": "Jah",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415806,
+    "type": "Song",
+    "title": "Belly Full Aka Them Belly",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415807,
+    "type": "Song",
+    "title": "Small Axe",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415808,
+    "type": "Song",
+    "title": "Sun Is Shining",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415809,
+    "type": "Song",
+    "title": "Exodus",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415810,
+    "type": "Song",
+    "title": "Them Belly Full",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415811,
+    "type": "Song",
+    "title": "Natural Mystic",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415812,
+    "type": "Song",
+    "title": "Lively Up Yourself",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 415813,
+    "type": "Song",
+    "title": "Jungle Dub",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 438759,
+    "type": "Song",
+    "title": "No Women",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 441857,
+    "type": "Song",
+    "title": "No Woman No Cry 1",
+    "artist": {
+      "id": 58,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley",
+      "useThePrefix": false,
+      "name": "Bob Marley"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 387024,
+    "type": "Song",
+    "title": "Waiting In Vain (Submitted By Www.Nicebasslines.Com)",
+    "artist": {
+      "id": 50517,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley & The Wrailers",
+      "useThePrefix": false,
+      "name": "Bob Marley & The Wrailers"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  },
+  {
+    "id": 451419,
+    "type": "Song",
+    "title": "Bad Card",
+    "artist": {
+      "id": 60946,
+      "type": "Artist",
+      "nameWithoutThePrefix": "Bob Marley & The Wailers",
+      "useThePrefix": false,
+      "name": "Bob Marley & The Wailers"
+    },
+    "chordsPresent": false,
+    "tabTypes": ["PLAYER"]
+  }
+]

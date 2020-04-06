@@ -1,0 +1,131 @@
+[
+  {
+    "title": "ColourLovers API (Colours, Palettes)",
+    "home": "http://www.colourlovers.com/api/",
+    "examples": [
+      {
+        "file": "colourlovers_palettes.json",
+        "url": "http://www.colourlovers.com/api/palettes/top?format=json&numResults=20",
+        "description": "top 20 palettes"
+      }
+    ]
+  },
+  {
+    "title": "TVMaze - tv shows, episodes, still images",
+    "home": "https://www.tvmaze.com/api",
+    "examples": [
+      {
+        "file": "tvmaze_shows.json",
+        "url": "https://api.tvmaze.com/shows",
+        "description": "all shows"
+      },
+      {
+        "file": "tvmaze_episodes.json",
+        "url": "https://api.tvmaze.com/shows/82/episodes",
+        "description": "episodes from a show"
+      }
+    ]
+  },
+  {
+    "title": "Songsterr - index of songs with tabs, chords",
+    "home": "https://www.songsterr.com/a/wa/api/",
+    "examples": [
+      {
+        "file": "songsterr_songs.json",
+        "url": "https://www.songsterr.com/a/ra/songs/byartists.json?artists=%22Bob%20Marley%22"
+      }
+    ]
+  },
+  {
+    "title": "Cat Facts",
+    "home": "https://cat-fact.herokuapp.com/",
+    "examples": [
+      {
+        "file": "cat_facts.json",
+        "url": "https://cat-fact.herokuapp.com/facts"
+      }
+    ]
+  },
+  {
+    "title": "An API of Ice and Fire (Game Of Thrones)",
+    "home": "https://anapioficeandfire.com",
+    "examples": [
+      {
+        "file": "anapioficeandfire_one_person.json",
+        "url": "https://anapioficeandfire.com/api/characters/148"
+      }
+    ]
+  },
+  {
+    "title": "Star Wars API ('SWAPI')",
+    "home": "https://swapi.co/documentation",
+    "examples": [
+      {
+        "file": "swapi_one_person.json",
+        "url": "https://swapi.co/api/people/10/",
+        "description": "A single person from star wars (Old Ben)"
+      },
+      {
+        "file": "swapi_people.json",
+        "url": "https://swapi.co/api/people/",
+        "description": "list of people from the star wars universe (excerpt)"
+      }
+    ]
+  },
+  {
+    "title": "Studio Ghibli films",
+    "home": "https://ghibliapi.herokuapp.com/",
+    "examples": [
+      {
+        "file": "studio_ghibli_people.json",
+        "url": "https://ghibliapi.herokuapp.com/people"
+      }
+    ]
+  },
+  {
+    "title": "Technologies from Age of Empires 2",
+    "home": "https://age-of-empires-2-api.herokuapp.com/docs/",
+    "examples": [
+      {
+        "file": "age_of_empires_2_technologies.json",
+        "url": "https://age-of-empires-2-api.herokuapp.com/api/v1/technologies"
+      }
+    ]
+  },
+  {
+    "title": "PokéAPI",
+    "home": "https://pokeapi.co/",
+    "examples": [
+      {
+        "file": "pokemon_api_one_pokemon.json",
+        "url": "https://pokeapi.co/api/v2/pokemon/charizard"
+      },
+      {
+        "file": "pokemon_api_pokemons.json",
+        "url": "https://pokeapi.co/api/v2/pokemon/"
+      }
+    ]
+  },
+  {
+    "title": "Star Trek API",
+    "home": "http://stapi.co/",
+    "examples": [
+      {
+        "file": "stapi_star_trek_one_season_episodes.json",
+        "url": "http://stapi.co/api/v1/rest/season?uid=SAMA0000001633&pretty",
+        "description": "One season's info including its episodes"
+      }
+    ]
+  },
+  {
+    "title": "Public APIs",
+    "home": "https://api.publicapis.org/",
+    "examples": [
+      {
+        "file": "public_apis_list.json",
+        "url": "https://api.publicapis.org/entries?auth=null",
+        "description": "List of only those public APIs which do not need auth."
+      }
+    ]
+  }
+]
