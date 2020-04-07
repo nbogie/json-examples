@@ -4,7 +4,7 @@
     "home": "https://github.com/pydota2/Dota2-JSONData/blob/master/heroes.json",
     "examples": [
       {
-        "file": "dota2-heroes.json",
+        "file": "dota2_heroes.json",
         "url": "https://raw.githubusercontent.com/pydota2/Dota2-JSONData/master/heroes.json",
         "description": "heroes from Dota 2 video game"
       }
