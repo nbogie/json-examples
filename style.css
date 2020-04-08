@@ -12,6 +12,20 @@ pre {
   word-wrap: break-word;
   height: 30vh;
 }
+#nav-ul {
+  border: 1px solid black;
+  display: flex;
+  margin: 0px;
+  padding: 0;
+}
+#nav-ul li {
+  list-style: none;
+  padding: 20px;
+  margin: 4px;
+  border-radius: 8px;
+  border: 2px solid black;
+  cursor: pointer;
+}
 
 .string {
 }

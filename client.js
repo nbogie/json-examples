@@ -1,27 +1,24 @@
-const url_got = "https://api.tvmaze.com/shows/82/episodes";
 const url_index = "./index.json";
-const url_pokeapi = "./data/songsterr_songs.json";
 
-fetch(url_index)
-  .then((resp) => resp.json())
-  .then((json) => {
-    console.log(
-      investigate(json, [
-        (e) => e[0],
-        (e) => e.examples,
-        (e) => e[0],
-        (e) => e.file,
-      ])
-    );
-    const api = pickFromArray(json);
-    const example = pickFromArray(api.examples);
-    const file = example.file;
-    setHeaderForAPI(api, example);
-    const path = "./data/" + file;
-    return fetch(path);
-  })
-  .then((resp) => resp.json())
-  .then(processData);
+function loadAPIExample(api) {
+  const example = pickFromArray(api.examples);
+  const file = example.file;
+  setHeaderForAPI(api, example);
+  const path = "./data/" + file;
+  return fetch(path)
+    .then((resp) => resp.json())
+    .then(processData);
+}
+
+function makeNavBar(arr) {
+  const ulElem = document.getElementById("nav-ul");
+  arr.forEach((api) => {
+    const li = document.createElement("li");
+    li.addEventListener("click", () => loadAPIExample(api));
+    li.textContent = api.title;
+    ulElem.appendChild(li);
+  });
+}
 
 const testData = [
   1,
@@ -40,7 +37,9 @@ function processData(json) {
     null,
     2
   );
-  addToDOM(json, document.getElementById("visualiser"));
+  const visElem = document.getElementById("visualiser");
+  visElem.textContent = "";
+  addToDOM(json, visElem);
 }
 
 const isURL = (string) => string.startsWith("http");
@@ -139,6 +138,7 @@ const processors = [
       const dl = document.createElement("dl");
       dl.classList.add("object");
       cursor.appendChild(dl);
+      // @ts-ignore
       for (let [key, value] of Object.entries(item)) {
         const dt = document.createElement("dt");
         const dd = document.createElement("dd");
@@ -194,3 +194,19 @@ function investigate(start, fnArr) {
     working,
   };
 }
+
+fetch(url_index)
+  .then((resp) => resp.json())
+  .then((json) => {
+    console.log(
+      investigate(json, [
+        (e) => e[0],
+        (e) => e.examples,
+        (e) => e[0],
+        (e) => e.file,
+      ])
+    );
+    makeNavBar(json);
+    const api = pickFromArray(json);
+    return loadAPIExample(api);
+  });
