@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "JSON Generator",
+    "home": "https://next.json-generator.com/",
+    "examples": [
+      {
+        "file": "json-generator-people.json",
+        "url": "https://next.json-generator.com/EJBh08DvO",
+        "description": "List of people from JSON-generator"
+      }
+    ]
+  },
+  {
     "title": "Rest Countries API",
     "home": "https://restcountries.eu/",
     "examples": [
