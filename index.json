@@ -11,6 +11,22 @@
     ]
   },
   {
+    "title": "Rest Countries API",
+    "home": "https://restcountries.eu/",
+    "examples": [
+      {
+        "file": "rest_countries_list.json",
+        "url": "https://restcountries.eu/rest/v2/all",
+        "description": "Full list of countries with their locations, languages, currency, neighbours..."
+      },
+      {
+        "file": "rest_countries_search.json",
+        "url": "https://restcountries.eu/rest/v2/name/united",
+        "description": "Shorter list of countries matching a search for 'united', still with rich data about the countries."
+      }
+    ]
+  },
+  {
     "title": "ColourLovers API (Colours, Palettes)",
     "home": "http://www.colourlovers.com/api/",
     "examples": [
