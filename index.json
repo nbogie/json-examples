@@ -1,6 +1,7 @@
 [
   {
-    "title": "Dota 2 - (not an API)",
+    "title": "Dota 2",
+    "noAPI": true,
     "home": "https://github.com/pydota2/Dota2-JSONData/blob/master/heroes.json",
     "examples": [
       {
@@ -38,7 +39,8 @@
     ]
   },
   {
-    "title": "ColourLovers API (Colours, Palettes)",
+    "title": "ColourLovers API",
+    "description": "human-generated colours and palettes",
     "home": "http://www.colourlovers.com/api/",
     "examples": [
       {
@@ -49,7 +51,8 @@
     ]
   },
   {
-    "title": "TVMaze - tv shows, episodes, still images",
+    "title": "TVMaze",
+    "description": "Info on TV shows, episodes, still images, cast",
     "home": "https://www.tvmaze.com/api",
     "examples": [
       {
@@ -65,7 +68,8 @@
     ]
   },
   {
-    "title": "Songsterr - index of songs with tabs, chords",
+    "title": "Songsterr",
+    "description": "An simple index of songsterr's database of songs with tabs and chords",
     "home": "https://www.songsterr.com/a/wa/api/",
     "examples": [
       {
@@ -85,7 +89,8 @@
     ]
   },
   {
-    "title": "An API of Ice and Fire (Game Of Thrones)",
+    "title": "An API of Ice and Fire",
+    "description": "Game Of Thrones character info",
     "home": "https://anapioficeandfire.com",
     "examples": [
       {
@@ -95,7 +100,7 @@
     ]
   },
   {
-    "title": "Star Wars API ('SWAPI')",
+    "title": "Star Wars API",
     "home": "https://swapi.co/documentation",
     "examples": [
       {
@@ -121,7 +126,7 @@
     ]
   },
   {
-    "title": "Technologies from Age of Empires 2",
+    "title": "Age of Empires 2 Technologies",
     "home": "https://age-of-empires-2-api.herokuapp.com/docs/",
     "examples": [
       {
@@ -131,7 +136,7 @@
     ]
   },
   {
-    "title": "PokéAPI",
+    "title": "PokéAPI (Pokémon)",
     "home": "https://pokeapi.co/",
     "examples": [
       {
@@ -163,6 +168,21 @@
         "file": "public_apis_list.json",
         "url": "https://api.publicapis.org/entries?auth=null",
         "description": "List of only those public APIs which do not need auth."
+      }
+    ]
+  },
+  {
+    "title": "Jeopardy questions",
+    "noAPI": true,
+    "home": "https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/",
+    "examples": [
+      {
+        "file": "jeopardy_questions_short.json",
+        "description": "Short excerpt with 100+ questions (30kb)"
+      },
+      {
+        "file": "jeopardy_questions_long.json",
+        "description": "Longer excerpt with 3000+ questions (800kb)"
       }
     ]
   }

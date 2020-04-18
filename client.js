@@ -16,6 +16,9 @@ function makeNavBar(arr) {
     const li = document.createElement("li");
     li.addEventListener("click", () => loadAPIExample(api));
     li.textContent = api.title;
+    if (api.noAPI) {
+      li.classList.add("no-api")
+    }
     ulElem.appendChild(li);
   });
 }
@@ -165,11 +168,13 @@ function addToDOM(item, cursor) {
 }
 
 function setHeaderForAPI(api, example) {
-  console.log(example);
+  document.getElementById("noAPIWarning").textContent = api.noAPI ? "This data did not come from an API" : "";
+
   document.getElementById("apiTitle").textContent = api.title;
   document.getElementById("apiLink").setAttribute("href", api.home);
   document.getElementById("exampleTitle").textContent = example.description;
 }
+
 function pickFromArray(choices) {
   return choices[Math.floor(Math.random() * choices.length)];
 }
