@@ -194,7 +194,19 @@
     "examples": [
       {
         "file": "elements.json",
-        "description": "Data about the elements"
+        "description": "Data about the elements."
+      }
+    ]
+  }
+  ,
+  {
+    "title": "Planets",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/blob/master/data/science/planets.json",
+    "examples": [
+      {
+        "file": "planets.json",
+        "description": "Data about the planets of our solar system."
       }
     ]
   }
