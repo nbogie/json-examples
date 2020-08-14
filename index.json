@@ -228,8 +228,21 @@
     "examples": [
       {
         "file": "kaomoji.json",
-        "description": "List of cute kaomoji."
+        "description": "Cute kaomoji."
+      }
+    ]
+  },
+  {
+    "title": "Spells from Harry Potter",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/blob/master/data/words/spells.json",
+    "examples": [
+      {
+        "file": "harry_potter_spells.json",
+        "description": "Spells from the Harry Potter universe."
       }
     ]
   }
 ]
+
+
