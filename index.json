@@ -186,4 +186,16 @@
       }
     ]
   }
+,
+  {
+    "title": "The Elements",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/blob/master/data/science/elements.json",
+    "examples": [
+      {
+        "file": "elements.json",
+        "description": "Data about the elements"
+      }
+    ]
+  }
 ]
