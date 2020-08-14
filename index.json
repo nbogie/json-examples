@@ -242,6 +242,17 @@
         "description": "Spells from the Harry Potter universe."
       }
     ]
+  },
+  {
+    "title": "Word Clues",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/tree/master/data/words/word_clues",
+    "examples": [
+      {
+        "file": "word_clues.json",
+        "description": "Common words and crossword/thesaurus-style hints for each word"
+      }
+    ]
   }
 ]
 
