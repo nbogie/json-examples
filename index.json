@@ -209,7 +209,7 @@
         "description": "Data about the planets of our solar system."
       }
     ]
-  }  ,
+  },
   {
     "title": "The Olympic Games",
     "noAPI": true,
@@ -220,7 +220,16 @@
         "description": "Occurrences of the Olymic games.  Year, host nation, etc."
       }
     ]
+  },
+  {
+    "title": "Kaomoji",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/blob/master/data/words/emoji/cute_kaomoji.json",
+    "examples": [
+      {
+        "file": "kaomoji.json",
+        "description": "List of cute kaomoji."
+      }
+    ]
   }
 ]
-
-
