@@ -209,5 +209,18 @@
         "description": "Data about the planets of our solar system."
       }
     ]
+  }  ,
+  {
+    "title": "The Olympic Games",
+    "noAPI": true,
+    "home": "https://github.com/dariusk/corpora/blob/master/data/sports/olympics.json",
+    "examples": [
+      {
+        "file": "olympics.json",
+        "description": "Occurrences of the Olymic games.  Year, host nation, etc."
+      }
+    ]
   }
 ]
+
+
