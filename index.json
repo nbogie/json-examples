@@ -253,7 +253,20 @@
         "description": "Common words and crossword/thesaurus-style hints for each word"
       }
     ]
-  }
+  },
+  {
+    "title": "Random User",
+    "noAPI": false,
+    "home": "https://randomuser.me/api/",
+    "examples": [
+      {
+        "file": "random_user.json",
+        "description": "Random user data including link to portrait image, and structured address."
+      }
+    ]
+  },
+  
+  
 ]
 
 
