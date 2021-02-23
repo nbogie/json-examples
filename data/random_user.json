@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Kelly", "last": "Barnes" },
+      "location": {
+        "street": { "number": 6274, "name": "The Green" },
+        "city": "City of London",
+        "state": "Herefordshire",
+        "country": "United Kingdom",
+        "postcode": "JG9B 0UL",
+        "coordinates": { "latitude": "12.8398", "longitude": "16.0755" },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "kelly.barnes@example.com",
+      "login": {
+        "uuid": "80bbae37-6294-43b5-b32f-b4c41392e3d7",
+        "username": "yellowpeacock379",
+        "password": "bigmac",
+        "salt": "kLqlTt9l",
+        "md5": "6425cf2c0837b59a88b5bea01ebaf2db",
+        "sha1": "f895204e03a87f412c06b0354815c50908cb8cc6",
+        "sha256": "a2813dc45763c180e53721fb2752add15a262cd969d10b06bb44032a70d3019c"
+      },
+      "dob": { "date": "1985-06-15T02:46:08.315Z", "age": 36 },
+      "registered": { "date": "2007-08-10T15:55:19.288Z", "age": 14 },
+      "phone": "015394 65724",
+      "cell": "0795-336-241",
+      "id": { "name": "NINO", "value": "BA 54 02 87 H" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "4ec4b7a6f8a791be",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
