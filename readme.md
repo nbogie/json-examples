@@ -21,3 +21,7 @@ These were taken from corpora: https://github.com/dariusk/corpora/tree/master/da
 * the planets: https://github.com/dariusk/corpora/blob/master/data/science/planets.json
 * the elements: https://github.com/dariusk/corpora/blob/master/data/science/elements.json
 * hiragana: https://en.wikipedia.org/wiki/Hiragana
+
+
+# Useful tools
+online csv to json converters can be convenient. Here's one at random: https://www.convertcsv.com/csv-to-json.htm
