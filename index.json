@@ -21,7 +21,26 @@
         "description": "List of people from JSON-generator"
       }
     ]
-  },{
+  },
+  {
+    "title": "French words",
+    "examples": [
+      {
+        "file": "common_words_french.json",
+        "description": "List of common french words"
+      }
+    ]
+  },
+  {
+    "title": "Spanish words",
+    "examples": [
+      {
+        "file": "common_words_spanish.json",
+        "description": "List of common spanish words"
+      }
+    ]
+  },
+  {
     "title": "Hiragana",
     "home": "https://en.wikipedia.org/wiki/Hiragana",
     "examples": [
