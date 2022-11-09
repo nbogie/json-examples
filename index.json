@@ -21,6 +21,16 @@
         "description": "List of people from JSON-generator"
       }
     ]
+  },{
+    "title": "Hiragana",
+    "home": "https://en.wikipedia.org/wiki/Hiragana",
+    "examples": [
+      {
+        "file": "hiragana.json",
+        "url": "https://en.wikipedia.org/wiki/Hiragana",
+        "description": "(non-comprehensive) list of 48 hiragana from wikipedia, along with their english/romanized equivalents"
+      }
+    ]
   },
   {
     "title": "Rest Countries API",
