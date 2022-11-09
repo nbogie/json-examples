@@ -20,3 +20,4 @@ These were taken from corpora: https://github.com/dariusk/corpora/tree/master/da
 * olympics: https://github.com/dariusk/corpora/blob/master/data/sports/olympics.json
 * the planets: https://github.com/dariusk/corpora/blob/master/data/science/planets.json
 * the elements: https://github.com/dariusk/corpora/blob/master/data/science/elements.json
+* hiragana: https://en.wikipedia.org/wiki/Hiragana
