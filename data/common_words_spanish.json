@@ -1,0 +1,6006 @@
+[
+ {
+   "Spanish": "de",
+   "English": "of"
+ },
+ {
+   "Spanish": "que",
+   "English": "what"
+ },
+ {
+   "Spanish": "no",
+   "English": "no"
+ },
+ {
+   "Spanish": "a",
+   "English": "to"
+ },
+ {
+   "Spanish": "la",
+   "English": "the"
+ },
+ {
+   "Spanish": "el",
+   "English": "he"
+ },
+ {
+   "Spanish": "y",
+   "English": "and"
+ },
+ {
+   "Spanish": "es",
+   "English": "is"
+ },
+ {
+   "Spanish": "en",
+   "English": "in"
+ },
+ {
+   "Spanish": "lo",
+   "English": "the"
+ },
+ {
+   "Spanish": "un",
+   "English": "a"
+ },
+ {
+   "Spanish": "por",
+   "English": "by"
+ },
+ {
+   "Spanish": "qué",
+   "English": "what"
+ },
+ {
+   "Spanish": "me",
+   "English": "I"
+ },
+ {
+   "Spanish": "una",
+   "English": "a"
+ },
+ {
+   "Spanish": "los",
+   "English": "the"
+ },
+ {
+   "Spanish": "se",
+   "English": "I know"
+ },
+ {
+   "Spanish": "te",
+   "English": "tea"
+ },
+ {
+   "Spanish": "con",
+   "English": "with"
+ },
+ {
+   "Spanish": "para",
+   "English": "for"
+ },
+ {
+   "Spanish": "está",
+   "English": "this"
+ },
+ {
+   "Spanish": "mi",
+   "English": "me"
+ },
+ {
+   "Spanish": "pero",
+   "English": "but"
+ },
+ {
+   "Spanish": "sí",
+   "English": "yes"
+ },
+ {
+   "Spanish": "si",
+   "English": "yes"
+ },
+ {
+   "Spanish": "bien",
+   "English": "good"
+ },
+ {
+   "Spanish": "eso",
+   "English": "that"
+ },
+ {
+   "Spanish": "su",
+   "English": "his"
+ },
+ {
+   "Spanish": "las",
+   "English": "the"
+ },
+ {
+   "Spanish": "yo",
+   "English": "me"
+ },
+ {
+   "Spanish": "del",
+   "English": "of the"
+ },
+ {
+   "Spanish": "como",
+   "English": "as"
+ },
+ {
+   "Spanish": "aquí",
+   "English": "here"
+ },
+ {
+   "Spanish": "tu",
+   "English": "you"
+ },
+ {
+   "Spanish": "al",
+   "English": "to the"
+ },
+ {
+   "Spanish": "más",
+   "English": "plus"
+ },
+ {
+   "Spanish": "le",
+   "English": "you"
+ },
+ {
+   "Spanish": "esto",
+   "English": "this"
+ },
+ {
+   "Spanish": "todo",
+   "English": "everything"
+ },
+ {
+   "Spanish": "ya",
+   "English": "already"
+ },
+ {
+   "Spanish": "estoy",
+   "English": "I am"
+ },
+ {
+   "Spanish": "ahora",
+   "English": "now"
+ },
+ {
+   "Spanish": "muy",
+   "English": "very"
+ },
+ {
+   "Spanish": "ha",
+   "English": "he has"
+ },
+ {
+   "Spanish": "esta",
+   "English": "this"
+ },
+ {
+   "Spanish": "así",
+   "English": "So"
+ },
+ {
+   "Spanish": "vamos",
+   "English": "we go"
+ },
+ {
+   "Spanish": "algo",
+   "English": "something"
+ },
+ {
+   "Spanish": "hay",
+   "English": "there is"
+ },
+ {
+   "Spanish": "bueno",
+   "English": "Okay"
+ },
+ {
+   "Spanish": "tengo",
+   "English": "I have"
+ },
+ {
+   "Spanish": "él",
+   "English": "he"
+ },
+ {
+   "Spanish": "cuando",
+   "English": "when"
+ },
+ {
+   "Spanish": "estás",
+   "English": "these"
+ },
+ {
+   "Spanish": "sé",
+   "English": "I know"
+ },
+ {
+   "Spanish": "tú",
+   "English": "you"
+ },
+ {
+   "Spanish": "nos",
+   "English": "us"
+ },
+ {
+   "Spanish": "nada",
+   "English": "nothing"
+ },
+ {
+   "Spanish": "cómo",
+   "English": "how"
+ },
+ {
+   "Spanish": "este",
+   "English": "this"
+ },
+ {
+   "Spanish": "o",
+   "English": "or"
+ },
+ {
+   "Spanish": "he",
+   "English": "I"
+ },
+ {
+   "Spanish": "ser",
+   "English": "to be"
+ },
+ {
+   "Spanish": "tiene",
+   "English": "has"
+ },
+ {
+   "Spanish": "puedo",
+   "English": "may l"
+ },
+ {
+   "Spanish": "ella",
+   "English": "she"
+ },
+ {
+   "Spanish": "quiero",
+   "English": "I want"
+ },
+ {
+   "Spanish": "hacer",
+   "English": "do"
+ },
+ {
+   "Spanish": "fue",
+   "English": "was"
+ },
+ {
+   "Spanish": "gracias",
+   "English": "thanks"
+ },
+ {
+   "Spanish": "vez",
+   "English": "time"
+ },
+ {
+   "Spanish": "era",
+   "English": "was"
+ },
+ {
+   "Spanish": "soy",
+   "English": "I am"
+ },
+ {
+   "Spanish": "sólo",
+   "English": "alone"
+ },
+ {
+   "Spanish": "todos",
+   "English": "everyone"
+ },
+ {
+   "Spanish": "porque",
+   "English": "why"
+ },
+ {
+   "Spanish": "son",
+   "English": "are"
+ },
+ {
+   "Spanish": "tienes",
+   "English": "you have"
+ },
+ {
+   "Spanish": "creo",
+   "English": "I believe"
+ },
+ {
+   "Spanish": "voy",
+   "English": "I go"
+ },
+ {
+   "Spanish": "sabes",
+   "English": "you know"
+ },
+ {
+   "Spanish": "estaba",
+   "English": "I was"
+ },
+ {
+   "Spanish": "puede",
+   "English": "can"
+ },
+ {
+   "Spanish": "eres",
+   "English": "you are"
+ },
+ {
+   "Spanish": "ese",
+   "English": "that"
+ },
+ {
+   "Spanish": "usted",
+   "English": "you"
+ },
+ {
+   "Spanish": "entonces",
+   "English": "so"
+ },
+ {
+   "Spanish": "hola",
+   "English": "Hello"
+ },
+ {
+   "Spanish": "solo",
+   "English": "alone"
+ },
+ {
+   "Spanish": "verdad",
+   "English": "truth"
+ },
+ {
+   "Spanish": "casa",
+   "English": "House"
+ },
+ {
+   "Spanish": "tan",
+   "English": "so"
+ },
+ {
+   "Spanish": "quién",
+   "English": "who"
+ },
+ {
+   "Spanish": "sus",
+   "English": "their"
+ },
+ {
+   "Spanish": "tiempo",
+   "English": "weather"
+ },
+ {
+   "Spanish": "dos",
+   "English": "two"
+ },
+ {
+   "Spanish": "esa",
+   "English": "that"
+ },
+ {
+   "Spanish": "nunca",
+   "English": "never"
+ },
+ {
+   "Spanish": "dónde",
+   "English": "where"
+ },
+ {
+   "Spanish": "va",
+   "English": "goes"
+ },
+ {
+   "Spanish": "oh",
+   "English": "oh"
+ },
+ {
+   "Spanish": "favor",
+   "English": "favor"
+ },
+ {
+   "Spanish": "mucho",
+   "English": "much"
+ },
+ {
+   "Spanish": "mí",
+   "English": "me"
+ },
+ {
+   "Spanish": "quieres",
+   "English": "you want"
+ },
+ {
+   "Spanish": "siento",
+   "English": "sorry"
+ },
+ {
+   "Spanish": "señor",
+   "English": "Sir"
+ },
+ {
+   "Spanish": "mejor",
+   "English": "best"
+ },
+ {
+   "Spanish": "hace",
+   "English": "make"
+ },
+ {
+   "Spanish": "has",
+   "English": "you"
+ },
+ {
+   "Spanish": "decir",
+   "English": "say"
+ },
+ {
+   "Spanish": "también",
+   "English": "as well"
+ },
+ {
+   "Spanish": "sobre",
+   "English": "on"
+ },
+ {
+   "Spanish": "dios",
+   "English": "God"
+ },
+ {
+   "Spanish": "sin",
+   "English": "without"
+ },
+ {
+   "Spanish": "tenemos",
+   "English": "we have"
+ },
+ {
+   "Spanish": "están",
+   "English": "is it so"
+ },
+ {
+   "Spanish": "ti",
+   "English": "you"
+ },
+ {
+   "Spanish": "puedes",
+   "English": "can"
+ },
+ {
+   "Spanish": "ver",
+   "English": "see"
+ },
+ {
+   "Spanish": "hombre",
+   "English": "man"
+ },
+ {
+   "Spanish": "vida",
+   "English": "lifetime"
+ },
+ {
+   "Spanish": "alguien",
+   "English": "someone"
+ },
+ {
+   "Spanish": "cosas",
+   "English": "stuff"
+ },
+ {
+   "Spanish": "siempre",
+   "English": "forever"
+ },
+ {
+   "Spanish": "hasta",
+   "English": "until"
+ },
+ {
+   "Spanish": "ahí",
+   "English": "there"
+ },
+ {
+   "Spanish": "ir",
+   "English": "to go"
+ },
+ {
+   "Spanish": "años",
+   "English": "years"
+ },
+ {
+   "Spanish": "antes",
+   "English": "before"
+ },
+ {
+   "Spanish": "estar",
+   "English": "to be"
+ },
+ {
+   "Spanish": "ni",
+   "English": "neither"
+ },
+ {
+   "Spanish": "poco",
+   "English": "little bit"
+ },
+ {
+   "Spanish": "día",
+   "English": "day"
+ },
+ {
+   "Spanish": "uno",
+   "English": "one"
+ },
+ {
+   "Spanish": "noche",
+   "English": "night"
+ },
+ {
+   "Spanish": "hecho",
+   "English": "done"
+ },
+ {
+   "Spanish": "mis",
+   "English": "my"
+ },
+ {
+   "Spanish": "estamos",
+   "English": "we're"
+ },
+ {
+   "Spanish": "otra",
+   "English": "other"
+ },
+ {
+   "Spanish": "acuerdo",
+   "English": "agreement"
+ },
+ {
+   "Spanish": "trabajo",
+   "English": "job"
+ },
+ {
+   "Spanish": "nosotros",
+   "English": "U.S"
+ },
+ {
+   "Spanish": "parece",
+   "English": "It seems"
+ },
+ {
+   "Spanish": "gente",
+   "English": "people"
+ },
+ {
+   "Spanish": "sea",
+   "English": "be"
+ },
+ {
+   "Spanish": "padre",
+   "English": "father"
+ },
+ {
+   "Spanish": "mira",
+   "English": "look"
+ },
+ {
+   "Spanish": "mismo",
+   "English": "same"
+ },
+ {
+   "Spanish": "dijo",
+   "English": "said"
+ },
+ {
+   "Spanish": "nadie",
+   "English": "nobody"
+ },
+ {
+   "Spanish": "quiere",
+   "English": "wants"
+ },
+ {
+   "Spanish": "podría",
+   "English": "might"
+ },
+ {
+   "Spanish": "hablar",
+   "English": "talk"
+ },
+ {
+   "Spanish": "vas",
+   "English": "you go"
+ },
+ {
+   "Spanish": "ellos",
+   "English": "they"
+ },
+ {
+   "Spanish": "sr.",
+   "English": "Mr."
+ },
+ {
+   "Spanish": "tal",
+   "English": "such"
+ },
+ {
+   "Spanish": "pasa",
+   "English": "pass"
+ },
+ {
+   "Spanish": "fuera",
+   "English": "outside"
+ },
+ {
+   "Spanish": "después",
+   "English": "then"
+ },
+ {
+   "Spanish": "han",
+   "English": "They have"
+ },
+ {
+   "Spanish": "desde",
+   "English": "since"
+ },
+ {
+   "Spanish": "dinero",
+   "English": "money"
+ },
+ {
+   "Spanish": "mundo",
+   "English": "world"
+ },
+ {
+   "Spanish": "claro",
+   "English": "Clear"
+ },
+ {
+   "Spanish": "momento",
+   "English": "moment"
+ },
+ {
+   "Spanish": "les",
+   "English": "them"
+ },
+ {
+   "Spanish": "tener",
+   "English": "to have"
+ },
+ {
+   "Spanish": "estado",
+   "English": "state"
+ },
+ {
+   "Spanish": "otro",
+   "English": "other"
+ },
+ {
+   "Spanish": "había",
+   "English": "there were"
+ },
+ {
+   "Spanish": "mañana",
+   "English": "tomorrow"
+ },
+ {
+   "Spanish": "tenía",
+   "English": "I had"
+ },
+ {
+   "Spanish": "madre",
+   "English": "mother"
+ },
+ {
+   "Spanish": "vale",
+   "English": "OK"
+ },
+ {
+   "Spanish": "lugar",
+   "English": "place"
+ },
+ {
+   "Spanish": "haciendo",
+   "English": "doing"
+ },
+ {
+   "Spanish": "donde",
+   "English": "where"
+ },
+ {
+   "Spanish": "seguro",
+   "English": "sure"
+ },
+ {
+   "Spanish": "sabe",
+   "English": "knows"
+ },
+ {
+   "Spanish": "podemos",
+   "English": "we can"
+ },
+ {
+   "Spanish": "tus",
+   "English": "your"
+ },
+ {
+   "Spanish": "espera",
+   "English": "wait"
+ },
+ {
+   "Spanish": "nuevo",
+   "English": "new"
+ },
+ {
+   "Spanish": "sido",
+   "English": "been"
+ },
+ {
+   "Spanish": "cosa",
+   "English": "thing"
+ },
+ {
+   "Spanish": "hijo",
+   "English": "son"
+ },
+ {
+   "Spanish": "allí",
+   "English": "there"
+ },
+ {
+   "Spanish": "menos",
+   "English": "less"
+ },
+ {
+   "Spanish": "tipo",
+   "English": "type"
+ },
+ {
+   "Spanish": "amigo",
+   "English": "friend"
+ },
+ {
+   "Spanish": "gran",
+   "English": "great"
+ },
+ {
+   "Spanish": "nuestro",
+   "English": "our"
+ },
+ {
+   "Spanish": "mujer",
+   "English": "woman"
+ },
+ {
+   "Spanish": "mamá",
+   "English": "mother"
+ },
+ {
+   "Spanish": "luego",
+   "English": "then"
+ },
+ {
+   "Spanish": "papá",
+   "English": "father"
+ },
+ {
+   "Spanish": "días",
+   "English": "days"
+ },
+ {
+   "Spanish": "dice",
+   "English": "He says"
+ },
+ {
+   "Spanish": "hoy",
+   "English": "today"
+ },
+ {
+   "Spanish": "tres",
+   "English": "three"
+ },
+ {
+   "Spanish": "buena",
+   "English": "good"
+ },
+ {
+   "Spanish": "necesito",
+   "English": "needed"
+ },
+ {
+   "Spanish": "dije",
+   "English": "said"
+ },
+ {
+   "Spanish": "oye",
+   "English": "hears"
+ },
+ {
+   "Spanish": "gusta",
+   "English": "like"
+ },
+ {
+   "Spanish": "quería",
+   "English": "wanted to"
+ },
+ {
+   "Spanish": "será",
+   "English": "be"
+ },
+ {
+   "Spanish": "haber",
+   "English": "to have"
+ },
+ {
+   "Spanish": "parte",
+   "English": "part"
+ },
+ {
+   "Spanish": "todas",
+   "English": "all"
+ },
+ {
+   "Spanish": "crees",
+   "English": "think"
+ },
+ {
+   "Spanish": "buen",
+   "English": "good"
+ },
+ {
+   "Spanish": "conmigo",
+   "English": "with me"
+ },
+ {
+   "Spanish": "nombre",
+   "English": "Name"
+ },
+ {
+   "Spanish": "mierda",
+   "English": "shit"
+ },
+ {
+   "Spanish": "nuestra",
+   "English": "our"
+ },
+ {
+   "Spanish": "mal",
+   "English": "wrong"
+ },
+ {
+   "Spanish": "debe",
+   "English": "should"
+ },
+ {
+   "Spanish": "realmente",
+   "English": "Really"
+ },
+ {
+   "Spanish": "estas",
+   "English": "these"
+ },
+ {
+   "Spanish": "aún",
+   "English": "yet"
+ },
+ {
+   "Spanish": "mío",
+   "English": "Own"
+ },
+ {
+   "Spanish": "toda",
+   "English": "all"
+ },
+ {
+   "Spanish": "hacerlo",
+   "English": "do what"
+ },
+ {
+   "Spanish": "cada",
+   "English": "each"
+ },
+ {
+   "Spanish": "visto",
+   "English": "viewed"
+ },
+ {
+   "Spanish": "importa",
+   "English": "matters"
+ },
+ {
+   "Spanish": "contigo",
+   "English": "with you"
+ },
+ {
+   "Spanish": "tienen",
+   "English": "they have"
+ },
+ {
+   "Spanish": "hemos",
+   "English": "we have"
+ },
+ {
+   "Spanish": "razón",
+   "English": "reason"
+ },
+ {
+   "Spanish": "alguna",
+   "English": "any"
+ },
+ {
+   "Spanish": "tanto",
+   "English": "so much"
+ },
+ {
+   "Spanish": "saber",
+   "English": "to know"
+ },
+ {
+   "Spanish": "hizo",
+   "English": "did"
+ },
+ {
+   "Spanish": "veces",
+   "English": "times"
+ },
+ {
+   "Spanish": "serio",
+   "English": "I laughed"
+ },
+ {
+   "Spanish": "ven",
+   "English": "come"
+ },
+ {
+   "Spanish": "idea",
+   "English": "idea"
+ },
+ {
+   "Spanish": "eh",
+   "English": "Hey"
+ },
+ {
+   "Spanish": "tarde",
+   "English": "late"
+ },
+ {
+   "Spanish": "problema",
+   "English": "problem"
+ },
+ {
+   "Spanish": "hora",
+   "English": "time"
+ },
+ {
+   "Spanish": "cierto",
+   "English": "true"
+ },
+ {
+   "Spanish": "dicho",
+   "English": "saying"
+ },
+ {
+   "Spanish": "quien",
+   "English": "who"
+ },
+ {
+   "Spanish": "demasiado",
+   "English": "too"
+ },
+ {
+   "Spanish": "amor",
+   "English": "love"
+ },
+ {
+   "Spanish": "entre",
+   "English": "between"
+ },
+ {
+   "Spanish": "ve",
+   "English": "go"
+ },
+ {
+   "Spanish": "pasado",
+   "English": "past"
+ },
+ {
+   "Spanish": "familia",
+   "English": "family"
+ },
+ {
+   "Spanish": "estos",
+   "English": "these"
+ },
+ {
+   "Spanish": "policía",
+   "English": "policeman"
+ },
+ {
+   "Spanish": "debería",
+   "English": "should"
+ },
+ {
+   "Spanish": "ustedes",
+   "English": "your"
+ },
+ {
+   "Spanish": "chica",
+   "English": "girl"
+ },
+ {
+   "Spanish": "esos",
+   "English": "those"
+ },
+ {
+   "Spanish": "chicos",
+   "English": "Boys"
+ },
+ {
+   "Spanish": "cuenta",
+   "English": "bill"
+ },
+ {
+   "Spanish": "haces",
+   "English": "do"
+ },
+ {
+   "Spanish": "todavía",
+   "English": "still"
+ },
+ {
+   "Spanish": "salir",
+   "English": "go out"
+ },
+ {
+   "Spanish": "algún",
+   "English": "some"
+ },
+ {
+   "Spanish": "vaya",
+   "English": "go"
+ },
+ {
+   "Spanish": "unos",
+   "English": "some"
+ },
+ {
+   "Spanish": "veo",
+   "English": "I see"
+ },
+ {
+   "Spanish": "amigos",
+   "English": "friends"
+ },
+ {
+   "Spanish": "hermano",
+   "English": "brother"
+ },
+ {
+   "Spanish": "pensé",
+   "English": "I thought"
+ },
+ {
+   "Spanish": "sabía",
+   "English": "I knew"
+ },
+ {
+   "Spanish": "cabeza",
+   "English": "head"
+ },
+ {
+   "Spanish": "ah",
+   "English": "ah"
+ },
+ {
+   "Spanish": "cariño",
+   "English": "sweetie"
+ },
+ {
+   "Spanish": "digo",
+   "English": "I say"
+ },
+ {
+   "Spanish": "van",
+   "English": "go"
+ },
+ {
+   "Spanish": "hombres",
+   "English": "mens"
+ },
+ {
+   "Spanish": "buenas",
+   "English": "good"
+ },
+ {
+   "Spanish": "somos",
+   "English": "we are"
+ },
+ {
+   "Spanish": "cualquier",
+   "English": "any"
+ },
+ {
+   "Spanish": "forma",
+   "English": "shape"
+ },
+ {
+   "Spanish": "mientras",
+   "English": "While"
+ },
+ {
+   "Spanish": "lado",
+   "English": "side"
+ },
+ {
+   "Spanish": "debo",
+   "English": "I must"
+ },
+ {
+   "Spanish": "sería",
+   "English": "would"
+ },
+ {
+   "Spanish": "caso",
+   "English": "case"
+ },
+ {
+   "Spanish": "pueden",
+   "English": "may"
+ },
+ {
+   "Spanish": "pasó",
+   "English": "He passed"
+ },
+ {
+   "Spanish": "primera",
+   "English": "first"
+ },
+ {
+   "Spanish": "genial",
+   "English": "great"
+ },
+ {
+   "Spanish": "chico",
+   "English": "boy"
+ },
+ {
+   "Spanish": "supuesto",
+   "English": "supposed"
+ },
+ {
+   "Spanish": "hice",
+   "English": "I did"
+ },
+ {
+   "Spanish": "pues",
+   "English": "well"
+ },
+ {
+   "Spanish": "adiós",
+   "English": "goodbye"
+ },
+ {
+   "Spanish": "muchas",
+   "English": "many"
+ },
+ {
+   "Spanish": "personas",
+   "English": "people"
+ },
+ {
+   "Spanish": "señora",
+   "English": "Ms"
+ },
+ {
+   "Spanish": "volver",
+   "English": "return"
+ },
+ {
+   "Spanish": "esas",
+   "English": "those"
+ },
+ {
+   "Spanish": "quizá",
+   "English": "maybe"
+ },
+ {
+   "Spanish": "contra",
+   "English": "against"
+ },
+ {
+   "Spanish": "camino",
+   "English": "way"
+ },
+ {
+   "Spanish": "durante",
+   "English": "during"
+ },
+ {
+   "Spanish": "hablando",
+   "English": "talking"
+ },
+ {
+   "Spanish": "manera",
+   "English": "way"
+ },
+ {
+   "Spanish": "muerto",
+   "English": "dead"
+ },
+ {
+   "Spanish": "persona",
+   "English": "person"
+ },
+ {
+   "Spanish": "rápido",
+   "English": "Quick"
+ },
+ {
+   "Spanish": "cuál",
+   "English": "which"
+ },
+ {
+   "Spanish": "ayuda",
+   "English": "help"
+ },
+ {
+   "Spanish": "historia",
+   "English": "history"
+ },
+ {
+   "Spanish": "iba",
+   "English": "I was going"
+ },
+ {
+   "Spanish": "supongo",
+   "English": "I suppose"
+ },
+ {
+   "Spanish": "nueva",
+   "English": "new"
+ },
+ {
+   "Spanish": "entiendo",
+   "English": "I get it"
+ },
+ {
+   "Spanish": "dentro",
+   "English": "inside"
+ },
+ {
+   "Spanish": "casi",
+   "English": "almost"
+ },
+ {
+   "Spanish": "puerta",
+   "English": "door"
+ },
+ {
+   "Spanish": "ves",
+   "English": "you see"
+ },
+ {
+   "Spanish": "pasar",
+   "English": "pass"
+ },
+ {
+   "Spanish": "primero",
+   "English": "First"
+ },
+ {
+   "Spanish": "significa",
+   "English": "it means"
+ },
+ {
+   "Spanish": "semana",
+   "English": "week"
+ },
+ {
+   "Spanish": "hacia",
+   "English": "toward"
+ },
+ {
+   "Spanish": "quizás",
+   "English": "maybe"
+ },
+ {
+   "Spanish": "espero",
+   "English": "I hope"
+ },
+ {
+   "Spanish": "juntos",
+   "English": "together"
+ },
+ {
+   "Spanish": "año",
+   "English": "year"
+ },
+ {
+   "Spanish": "niños",
+   "English": "children"
+ },
+ {
+   "Spanish": "pronto",
+   "English": "soon"
+ },
+ {
+   "Spanish": "tío",
+   "English": "uncle"
+ },
+ {
+   "Spanish": "suerte",
+   "English": "luck"
+ },
+ {
+   "Spanish": "ciudad",
+   "English": "city"
+ },
+ {
+   "Spanish": "siquiera",
+   "English": "at least"
+ },
+ {
+   "Spanish": "feliz",
+   "English": "happy"
+ },
+ {
+   "Spanish": "venir",
+   "English": "come"
+ },
+ {
+   "Spanish": "hija",
+   "English": "daughter"
+ },
+ {
+   "Spanish": "gustaría",
+   "English": "would like"
+ },
+ {
+   "Spanish": "minutos",
+   "English": "minutes"
+ },
+ {
+   "Spanish": "cuánto",
+   "English": "how much"
+ },
+ {
+   "Spanish": "os",
+   "English": "you"
+ },
+ {
+   "Spanish": "hey",
+   "English": "hey"
+ },
+ {
+   "Spanish": "muerte",
+   "English": "death"
+ },
+ {
+   "Spanish": "dejar",
+   "English": "leave"
+ },
+ {
+   "Spanish": "realidad",
+   "English": "reality"
+ },
+ {
+   "Spanish": "deja",
+   "English": "let"
+ },
+ {
+   "Spanish": "problemas",
+   "English": "problems"
+ },
+ {
+   "Spanish": "vi",
+   "English": "saw"
+ },
+ {
+   "Spanish": "da",
+   "English": "gives"
+ },
+ {
+   "Spanish": "importante",
+   "English": "important"
+ },
+ {
+   "Spanish": "dijiste",
+   "English": "said"
+ },
+ {
+   "Spanish": "corazón",
+   "English": "heart"
+ },
+ {
+   "Spanish": "miedo",
+   "English": "fear"
+ },
+ {
+   "Spanish": "jefe",
+   "English": "chief"
+ },
+ {
+   "Spanish": "agua",
+   "English": "Water"
+ },
+ {
+   "Spanish": "haré",
+   "English": "I will do"
+ },
+ {
+   "Spanish": "justo",
+   "English": "fair"
+ },
+ {
+   "Spanish": "horas",
+   "English": "hours"
+ },
+ {
+   "Spanish": "poder",
+   "English": "power"
+ },
+ {
+   "Spanish": "buenos",
+   "English": "good ones"
+ },
+ {
+   "Spanish": "esposa",
+   "English": "wife"
+ },
+ {
+   "Spanish": "manos",
+   "English": "hands"
+ },
+ {
+   "Spanish": "debes",
+   "English": "you must"
+ },
+ {
+   "Spanish": "viene",
+   "English": "comes"
+ },
+ {
+   "Spanish": "venga",
+   "English": "come on"
+ },
+ {
+   "Spanish": "nuestros",
+   "English": "our"
+ },
+ {
+   "Spanish": "ojos",
+   "English": "eyes"
+ },
+ {
+   "Spanish": "adelante",
+   "English": "ahead"
+ },
+ {
+   "Spanish": "encontrar",
+   "English": "find"
+ },
+ {
+   "Spanish": "mano",
+   "English": "hand"
+ },
+ {
+   "Spanish": "cinco",
+   "English": "five"
+ },
+ {
+   "Spanish": "niño",
+   "English": "child"
+ },
+ {
+   "Spanish": "ninguna",
+   "English": "none"
+ },
+ {
+   "Spanish": "otros",
+   "English": "others"
+ },
+ {
+   "Spanish": "cara",
+   "English": "expensive"
+ },
+ {
+   "Spanish": "cuidado",
+   "English": "watch out"
+ },
+ {
+   "Spanish": "bajo",
+   "English": "low"
+ },
+ {
+   "Spanish": "cerca",
+   "English": "close"
+ },
+ {
+   "Spanish": "viejo",
+   "English": "old"
+ },
+ {
+   "Spanish": "déjame",
+   "English": "let me"
+ },
+ {
+   "Spanish": "noches",
+   "English": "nights"
+ },
+ {
+   "Spanish": "bastante",
+   "English": "quite"
+ },
+ {
+   "Spanish": "fin",
+   "English": "end"
+ },
+ {
+   "Spanish": "tomar",
+   "English": "drink"
+ },
+ {
+   "Spanish": "único",
+   "English": "only"
+ },
+ {
+   "Spanish": "misma",
+   "English": "same"
+ },
+ {
+   "Spanish": "escucha",
+   "English": "listens"
+ },
+ {
+   "Spanish": "ningún",
+   "English": "any"
+ },
+ {
+   "Spanish": "suficiente",
+   "English": "enough"
+ },
+ {
+   "Spanish": "punto",
+   "English": "point"
+ },
+ {
+   "Spanish": "cuándo",
+   "English": "when"
+ },
+ {
+   "Spanish": "sigue",
+   "English": "follow"
+ },
+ {
+   "Spanish": "haya",
+   "English": "beech"
+ },
+ {
+   "Spanish": "equipo",
+   "English": "team"
+ },
+ {
+   "Spanish": "grande",
+   "English": "big"
+ },
+ {
+   "Spanish": "necesita",
+   "English": "needs to"
+ },
+ {
+   "Spanish": "llegar",
+   "English": "to get"
+ },
+ {
+   "Spanish": "incluso",
+   "English": "even"
+ },
+ {
+   "Spanish": "algunos",
+   "English": "Some"
+ },
+ {
+   "Spanish": "doctor",
+   "English": "doctor"
+ },
+ {
+   "Spanish": "difícil",
+   "English": "hard"
+ },
+ {
+   "Spanish": "aunque",
+   "English": "though"
+ },
+ {
+   "Spanish": "hubiera",
+   "English": "had"
+ },
+ {
+   "Spanish": "primer",
+   "English": "first"
+ },
+ {
+   "Spanish": "coche",
+   "English": "car"
+ },
+ {
+   "Spanish": "hago",
+   "English": "I make"
+ },
+ {
+   "Spanish": "clase",
+   "English": "class"
+ },
+ {
+   "Spanish": "cuatro",
+   "English": "four"
+ },
+ {
+   "Spanish": "mas",
+   "English": "more"
+ },
+ {
+   "Spanish": "dices",
+   "English": "say"
+ },
+ {
+   "Spanish": "pequeño",
+   "English": "little"
+ },
+ {
+   "Spanish": "llama",
+   "English": "call"
+ },
+ {
+   "Spanish": "toma",
+   "English": "taking"
+ },
+ {
+   "Spanish": "hiciste",
+   "English": "did"
+ },
+ {
+   "Spanish": "allá",
+   "English": "there"
+ },
+ {
+   "Spanish": "última",
+   "English": "last"
+ },
+ {
+   "Spanish": "arriba",
+   "English": "above"
+ },
+ {
+   "Spanish": "tierra",
+   "English": "land"
+ },
+ {
+   "Spanish": "guerra",
+   "English": "war"
+ },
+ {
+   "Spanish": "pensar",
+   "English": "think"
+ },
+ {
+   "Spanish": "pueda",
+   "English": "can"
+ },
+ {
+   "Spanish": "igual",
+   "English": "same"
+ },
+ {
+   "Spanish": "loco",
+   "English": "crazy"
+ },
+ {
+   "Spanish": "sangre",
+   "English": "blood"
+ },
+ {
+   "Spanish": "mujeres",
+   "English": "women"
+ },
+ {
+   "Spanish": "vuelta",
+   "English": "return"
+ },
+ {
+   "Spanish": "fui",
+   "English": "I was"
+ },
+ {
+   "Spanish": "trabajar",
+   "English": "to work"
+ },
+ {
+   "Spanish": "tenido",
+   "English": "had"
+ },
+ {
+   "Spanish": "juego",
+   "English": "game"
+ },
+ {
+   "Spanish": "deberías",
+   "English": "you should"
+ },
+ {
+   "Spanish": "cuerpo",
+   "English": "Body"
+ },
+ {
+   "Spanish": "e",
+   "English": "and"
+ },
+ {
+   "Spanish": "algunas",
+   "English": "some"
+ },
+ {
+   "Spanish": "entrar",
+   "English": "get in"
+ },
+ {
+   "Spanish": "cree",
+   "English": "cree"
+ },
+ {
+   "Spanish": "podía",
+   "English": "I could"
+ },
+ {
+   "Spanish": "debemos",
+   "English": "we must"
+ },
+ {
+   "Spanish": "oportunidad",
+   "English": "opportunity"
+ },
+ {
+   "Spanish": "teléfono",
+   "English": "telephone"
+ },
+ {
+   "Spanish": "necesitamos",
+   "English": "we need"
+ },
+ {
+   "Spanish": "final",
+   "English": "final"
+ },
+ {
+   "Spanish": "listo",
+   "English": "ready"
+ },
+ {
+   "Spanish": "fiesta",
+   "English": "party"
+ },
+ {
+   "Spanish": "muchos",
+   "English": "Many"
+ },
+ {
+   "Spanish": "estabas",
+   "English": "you were"
+ },
+ {
+   "Spanish": "quieren",
+   "English": "they want"
+ },
+ {
+   "Spanish": "vete",
+   "English": "go away"
+ },
+ {
+   "Spanish": "auto",
+   "English": "car"
+ },
+ {
+   "Spanish": "dar",
+   "English": "give"
+ },
+ {
+   "Spanish": "vivir",
+   "English": "live"
+ },
+ {
+   "Spanish": "posible",
+   "English": "possible"
+ },
+ {
+   "Spanish": "ok",
+   "English": "okay"
+ },
+ {
+   "Spanish": "hermana",
+   "English": "sister"
+ },
+ {
+   "Spanish": "número",
+   "English": "number"
+ },
+ {
+   "Spanish": "meses",
+   "English": "months"
+ },
+ {
+   "Spanish": "exactamente",
+   "English": "exactly"
+ },
+ {
+   "Spanish": "culpa",
+   "English": "guilt"
+ },
+ {
+   "Spanish": "abajo",
+   "English": "down"
+ },
+ {
+   "Spanish": "escuela",
+   "English": "school"
+ },
+ {
+   "Spanish": "ido",
+   "English": "gone"
+ },
+ {
+   "Spanish": "fuerte",
+   "English": "strong"
+ },
+ {
+   "Spanish": "diciendo",
+   "English": "saying"
+ },
+ {
+   "Spanish": "habla",
+   "English": "speaks"
+ },
+ {
+   "Spanish": "esté",
+   "English": "this"
+ },
+ {
+   "Spanish": "ello",
+   "English": "it"
+ },
+ {
+   "Spanish": "pregunta",
+   "English": "question"
+ },
+ {
+   "Spanish": "chicas",
+   "English": "girls"
+ },
+ {
+   "Spanish": "eran",
+   "English": "they were"
+ },
+ {
+   "Spanish": "unas",
+   "English": "nail"
+ },
+ {
+   "Spanish": "pasando",
+   "English": "going"
+ },
+ {
+   "Spanish": "atrás",
+   "English": "behind"
+ },
+ {
+   "Spanish": "malo",
+   "English": "bad"
+ },
+ {
+   "Spanish": "capitán",
+   "English": "captain"
+ },
+ {
+   "Spanish": "sra.",
+   "English": "Mrs."
+ },
+ {
+   "Spanish": "bebé",
+   "English": "baby"
+ },
+ {
+   "Spanish": "segundo",
+   "English": "second"
+ },
+ {
+   "Spanish": "sabemos",
+   "English": "we know"
+ },
+ {
+   "Spanish": "mayor",
+   "English": "higher"
+ },
+ {
+   "Spanish": "comida",
+   "English": "food"
+ },
+ {
+   "Spanish": "morir",
+   "English": "To die"
+ },
+ {
+   "Spanish": "conozco",
+   "English": "I know"
+ },
+ {
+   "Spanish": "dame",
+   "English": "give to me"
+ },
+ {
+   "Spanish": "fácil",
+   "English": "easy"
+ },
+ {
+   "Spanish": "comer",
+   "English": "eat"
+ },
+ {
+   "Spanish": "vino",
+   "English": "came"
+ },
+ {
+   "Spanish": "lista",
+   "English": "list"
+ },
+ {
+   "Spanish": "haga",
+   "English": "make"
+ },
+ {
+   "Spanish": "necesitas",
+   "English": "you need"
+ },
+ {
+   "Spanish": "hijos",
+   "English": "children"
+ },
+ {
+   "Spanish": "probablemente",
+   "English": "probably"
+ },
+ {
+   "Spanish": "padres",
+   "English": "parents"
+ },
+ {
+   "Spanish": "habitación",
+   "English": "room"
+ },
+ {
+   "Spanish": "creer",
+   "English": "believe"
+ },
+ {
+   "Spanish": "pensando",
+   "English": "thinking"
+ },
+ {
+   "Spanish": "fueron",
+   "English": "were"
+ },
+ {
+   "Spanish": "dime",
+   "English": "tell me"
+ },
+ {
+   "Spanish": "trata",
+   "English": "about"
+ },
+ {
+   "Spanish": "buscando",
+   "English": "searching"
+ },
+ {
+   "Spanish": "tuve",
+   "English": "I had"
+ },
+ {
+   "Spanish": "tampoco",
+   "English": "neither"
+ },
+ {
+   "Spanish": "amo",
+   "English": "love"
+ },
+ {
+   "Spanish": "joven",
+   "English": "young"
+ },
+ {
+   "Spanish": "podrías",
+   "English": "could you"
+ },
+ {
+   "Spanish": "sola",
+   "English": "alone"
+ },
+ {
+   "Spanish": "par",
+   "English": "pair"
+ },
+ {
+   "Spanish": "única",
+   "English": "only"
+ },
+ {
+   "Spanish": "hacen",
+   "English": "make"
+ },
+ {
+   "Spanish": "seguir",
+   "English": "follow"
+ },
+ {
+   "Spanish": "dr.",
+   "English": "dr."
+ },
+ {
+   "Spanish": "simplemente",
+   "English": "simply"
+ },
+ {
+   "Spanish": "dicen",
+   "English": "say"
+ },
+ {
+   "Spanish": "medio",
+   "English": "means, medium"
+ },
+ {
+   "Spanish": "puta",
+   "English": "bitch"
+ },
+ {
+   "Spanish": "saben",
+   "English": "they know"
+ },
+ {
+   "Spanish": "sentido",
+   "English": "sense"
+ },
+ {
+   "Spanish": "hagas",
+   "English": "you do"
+ },
+ {
+   "Spanish": "segura",
+   "English": "safe"
+ },
+ {
+   "Spanish": "esperar",
+   "English": "wait"
+ },
+ {
+   "Spanish": "lejos",
+   "English": "far"
+ },
+ {
+   "Spanish": "arma",
+   "English": "weapon"
+ },
+ {
+   "Spanish": "alto",
+   "English": "high"
+ },
+ {
+   "Spanish": "pequeña",
+   "English": "little"
+ },
+ {
+   "Spanish": "dólares",
+   "English": "Dollars"
+ },
+ {
+   "Spanish": "seis",
+   "English": "six"
+ },
+ {
+   "Spanish": "estaban",
+   "English": "They were"
+ },
+ {
+   "Spanish": "seguridad",
+   "English": "security"
+ },
+ {
+   "Spanish": "maldita",
+   "English": "damn"
+ },
+ {
+   "Spanish": "estuvo",
+   "English": "he was"
+ },
+ {
+   "Spanish": "preocupes",
+   "English": "worry"
+ },
+ {
+   "Spanish": "palabra",
+   "English": "word"
+ },
+ {
+   "Spanish": "esperando",
+   "English": "waiting"
+ },
+ {
+   "Spanish": "queda",
+   "English": "remains"
+ },
+ {
+   "Spanish": "oficina",
+   "English": "office"
+ },
+ {
+   "Spanish": "matar",
+   "English": "kill"
+ },
+ {
+   "Spanish": "iré",
+   "English": "I will go"
+ },
+ {
+   "Spanish": "cama",
+   "English": "bed"
+ },
+ {
+   "Spanish": "además",
+   "English": "Besides"
+ },
+ {
+   "Spanish": "último",
+   "English": "latest"
+ },
+ {
+   "Spanish": "oído",
+   "English": "ear"
+ },
+ {
+   "Spanish": "habría",
+   "English": "there would be"
+ },
+ {
+   "Spanish": "estará",
+   "English": "will be"
+ },
+ {
+   "Spanish": "dio",
+   "English": "it gave"
+ },
+ {
+   "Spanish": "recuerdo",
+   "English": "memory"
+ },
+ {
+   "Spanish": "siendo",
+   "English": "being"
+ },
+ {
+   "Spanish": "acerca",
+   "English": "about"
+ },
+ {
+   "Spanish": "tenga",
+   "English": "have"
+ },
+ {
+   "Spanish": "luz",
+   "English": "light"
+ },
+ {
+   "Spanish": "correcto",
+   "English": "Right"
+ },
+ {
+   "Spanish": "ud.",
+   "English": "You."
+ },
+ {
+   "Spanish": "demonios",
+   "English": "got damn"
+ },
+ {
+   "Spanish": "nuestras",
+   "English": "our"
+ },
+ {
+   "Spanish": "verte",
+   "English": "to see you"
+ },
+ {
+   "Spanish": "dormir",
+   "English": "sleep"
+ },
+ {
+   "Spanish": "sitio",
+   "English": "site"
+ },
+ {
+   "Spanish": "ayudar",
+   "English": "help"
+ },
+ {
+   "Spanish": "conseguir",
+   "English": "get"
+ },
+ {
+   "Spanish": "di",
+   "English": "gave"
+ },
+ {
+   "Spanish": "marido",
+   "English": "husband"
+ },
+ {
+   "Spanish": "paz",
+   "English": "peace"
+ },
+ {
+   "Spanish": "idiota",
+   "English": "moron"
+ },
+ {
+   "Spanish": "plan",
+   "English": "plan"
+ },
+ {
+   "Spanish": "dado",
+   "English": "dice"
+ },
+ {
+   "Spanish": "cuanto",
+   "English": "how much"
+ },
+ {
+   "Spanish": "peor",
+   "English": "worst"
+ },
+ {
+   "Spanish": "murió",
+   "English": "died"
+ },
+ {
+   "Spanish": "pueblo",
+   "English": "village"
+ },
+ {
+   "Spanish": "vivo",
+   "English": "alive"
+ },
+ {
+   "Spanish": "venido",
+   "English": "I come"
+ },
+ {
+   "Spanish": "john",
+   "English": "john"
+ },
+ {
+   "Spanish": "basta",
+   "English": "Enough"
+ },
+ {
+   "Spanish": "paso",
+   "English": "He passed"
+ },
+ {
+   "Spanish": "deberíamos",
+   "English": "we should"
+ },
+ {
+   "Spanish": "música",
+   "English": "music"
+ },
+ {
+   "Spanish": "diga",
+   "English": "tell"
+ },
+ {
+   "Spanish": "minuto",
+   "English": "minute"
+ },
+ {
+   "Spanish": "anoche",
+   "English": "last night"
+ },
+ {
+   "Spanish": "llamar",
+   "English": "to call"
+ },
+ {
+   "Spanish": "piensa",
+   "English": "think"
+ },
+ {
+   "Spanish": "país",
+   "English": "country"
+ },
+ {
+   "Spanish": "digas",
+   "English": "you say"
+ },
+ {
+   "Spanish": "rey",
+   "English": "king"
+ },
+ {
+   "Spanish": "perdón",
+   "English": "sorry"
+ },
+ {
+   "Spanish": "mucha",
+   "English": "a lot"
+ },
+ {
+   "Spanish": "falta",
+   "English": "lack"
+ },
+ {
+   "Spanish": "pienso",
+   "English": "I think"
+ },
+ {
+   "Spanish": "diablos",
+   "English": "Devils"
+ },
+ {
+   "Spanish": "perdido",
+   "English": "lost"
+ },
+ {
+   "Spanish": "niña",
+   "English": "little girl"
+ },
+ {
+   "Spanish": "señorita",
+   "English": "miss"
+ },
+ {
+   "Spanish": "diez",
+   "English": "ten"
+ },
+ {
+   "Spanish": "lleva",
+   "English": "carries"
+ },
+ {
+   "Spanish": "hospital",
+   "English": "hospital"
+ },
+ {
+   "Spanish": "grandes",
+   "English": "big"
+ },
+ {
+   "Spanish": "maldito",
+   "English": "damned"
+ },
+ {
+   "Spanish": "otras",
+   "English": "other"
+ },
+ {
+   "Spanish": "llamado",
+   "English": "called"
+ },
+ {
+   "Spanish": "hacemos",
+   "English": "we make"
+ },
+ {
+   "Spanish": "llevar",
+   "English": "wear"
+ },
+ {
+   "Spanish": "fuego",
+   "English": "fire"
+ },
+ {
+   "Spanish": "aqui",
+   "English": "here"
+ },
+ {
+   "Spanish": "tuvo",
+   "English": "He had"
+ },
+ {
+   "Spanish": "poner",
+   "English": "place"
+ },
+ {
+   "Spanish": "calle",
+   "English": "Street"
+ },
+ {
+   "Spanish": "acaba",
+   "English": "just"
+ },
+ {
+   "Spanish": "prueba",
+   "English": "proof"
+ },
+ {
+   "Spanish": "increíble",
+   "English": "amazing"
+ },
+ {
+   "Spanish": "real",
+   "English": "real"
+ },
+ {
+   "Spanish": "libro",
+   "English": "book"
+ },
+ {
+   "Spanish": "orden",
+   "English": "order"
+ },
+ {
+   "Spanish": "semanas",
+   "English": "weeks"
+ },
+ {
+   "Spanish": "especial",
+   "English": "special"
+ },
+ {
+   "Spanish": "mía",
+   "English": "mine"
+ },
+ {
+   "Spanish": "café",
+   "English": "coffee"
+ },
+ {
+   "Spanish": "duro",
+   "English": "Lasted"
+ },
+ {
+   "Spanish": "empezar",
+   "English": "start"
+ },
+ {
+   "Spanish": "afuera",
+   "English": "outside"
+ },
+ {
+   "Spanish": "queremos",
+   "English": "we want"
+ },
+ {
+   "Spanish": "perro",
+   "English": "dog"
+ },
+ {
+   "Spanish": "cielo",
+   "English": "sky"
+ },
+ {
+   "Spanish": "jack",
+   "English": "Jack"
+ },
+ {
+   "Spanish": "puesto",
+   "English": "Market Stall"
+ },
+ {
+   "Spanish": "viaje",
+   "English": "trip"
+ },
+ {
+   "Spanish": "detrás",
+   "English": "behind"
+ },
+ {
+   "Spanish": "cuarto",
+   "English": "fourth"
+ },
+ {
+   "Spanish": "querida",
+   "English": "Dear"
+ },
+ {
+   "Spanish": "haría",
+   "English": "would do"
+ },
+ {
+   "Spanish": "preguntas",
+   "English": "questions"
+ },
+ {
+   "Spanish": "piensas",
+   "English": "think"
+ },
+ {
+   "Spanish": "querido",
+   "English": "Dear"
+ },
+ {
+   "Spanish": "libre",
+   "English": "free"
+ },
+ {
+   "Spanish": "buscar",
+   "English": "look for"
+ },
+ {
+   "Spanish": "cual",
+   "English": "which"
+ },
+ {
+   "Spanish": "diré",
+   "English": "I will say"
+ },
+ {
+   "Spanish": "suena",
+   "English": "it sounds"
+ },
+ {
+   "Spanish": "jugar",
+   "English": "to play"
+ },
+ {
+   "Spanish": "cambio",
+   "English": "change"
+ },
+ {
+   "Spanish": "película",
+   "English": "movie"
+ },
+ {
+   "Spanish": "millones",
+   "English": "millions"
+ },
+ {
+   "Spanish": "habrá",
+   "English": "there will be"
+ },
+ {
+   "Spanish": "llamada",
+   "English": "call"
+ },
+ {
+   "Spanish": "resto",
+   "English": "rest"
+ },
+ {
+   "Spanish": "vemos",
+   "English": "we see"
+ },
+ {
+   "Spanish": "extraño",
+   "English": "strange"
+ },
+ {
+   "Spanish": "mala",
+   "English": "bad"
+ },
+ {
+   "Spanish": "presidente",
+   "English": "President"
+ },
+ {
+   "Spanish": "srta.",
+   "English": "Ms."
+ },
+ {
+   "Spanish": "irme",
+   "English": "leave"
+ },
+ {
+   "Spanish": "ropa",
+   "English": "clothing"
+ },
+ {
+   "Spanish": "perder",
+   "English": "to lose"
+ },
+ {
+   "Spanish": "vuelve",
+   "English": "returns"
+ },
+ {
+   "Spanish": "agente",
+   "English": "agent"
+ },
+ {
+   "Spanish": "palabras",
+   "English": "words"
+ },
+ {
+   "Spanish": "información",
+   "English": "information"
+ },
+ {
+   "Spanish": "raro",
+   "English": "rare"
+ },
+ {
+   "Spanish": "hará",
+   "English": "will"
+ },
+ {
+   "Spanish": "entiendes",
+   "English": "You understand"
+ },
+ {
+   "Spanish": "éste",
+   "English": "this"
+ },
+ {
+   "Spanish": "trabajando",
+   "English": "working"
+ },
+ {
+   "Spanish": "tratando",
+   "English": "trying"
+ },
+ {
+   "Spanish": "general",
+   "English": "general"
+ },
+ {
+   "Spanish": "trato",
+   "English": "treatment"
+ },
+ {
+   "Spanish": "usar",
+   "English": "use"
+ },
+ {
+   "Spanish": "perfecto",
+   "English": "perfect"
+ },
+ {
+   "Spanish": "derecho",
+   "English": "law"
+ },
+ {
+   "Spanish": "modo",
+   "English": "mode"
+ },
+ {
+   "Spanish": "ayer",
+   "English": "Yesterday"
+ },
+ {
+   "Spanish": "conoces",
+   "English": "know"
+ },
+ {
+   "Spanish": "demás",
+   "English": "the rest"
+ },
+ {
+   "Spanish": "quieras",
+   "English": "want"
+ },
+ {
+   "Spanish": "podríamos",
+   "English": "we could"
+ },
+ {
+   "Spanish": "noticias",
+   "English": "news"
+ },
+ {
+   "Spanish": "asesino",
+   "English": "assassin"
+ },
+ {
+   "Spanish": "encontrado",
+   "English": "found"
+ },
+ {
+   "Spanish": "control",
+   "English": "control"
+ },
+ {
+   "Spanish": "odio",
+   "English": "hate"
+ },
+ {
+   "Spanish": "frente",
+   "English": "front"
+ },
+ {
+   "Spanish": "sexo",
+   "English": "sex"
+ },
+ {
+   "Spanish": "decirle",
+   "English": "tell"
+ },
+ {
+   "Spanish": "estaré",
+   "English": "I will be"
+ },
+ {
+   "Spanish": "divertido",
+   "English": "funny"
+ },
+ {
+   "Spanish": "armas",
+   "English": "weapons"
+ },
+ {
+   "Spanish": "recuerdas",
+   "English": "remember"
+ },
+ {
+   "Spanish": "amiga",
+   "English": "friend"
+ },
+ {
+   "Spanish": "grupo",
+   "English": "group"
+ },
+ {
+   "Spanish": "asunto",
+   "English": "affair"
+ },
+ {
+   "Spanish": "acabo",
+   "English": "finished"
+ },
+ {
+   "Spanish": "mensaje",
+   "English": "message"
+ },
+ {
+   "Spanish": "encima",
+   "English": "above"
+ },
+ {
+   "Spanish": "atención",
+   "English": "Attention"
+ },
+ {
+   "Spanish": "diferente",
+   "English": "different"
+ },
+ {
+   "Spanish": "uh",
+   "English": "uh"
+ },
+ {
+   "Spanish": "cállate",
+   "English": "shut up"
+ },
+ {
+   "Spanish": "daño",
+   "English": "hurt"
+ },
+ {
+   "Spanish": "sucede",
+   "English": "happens"
+ },
+ {
+   "Spanish": "cambiar",
+   "English": "change"
+ },
+ {
+   "Spanish": "siguiente",
+   "English": "following"
+ },
+ {
+   "Spanish": "sino",
+   "English": "if not"
+ },
+ {
+   "Spanish": "the",
+   "English": "the"
+ },
+ {
+   "Spanish": "seas",
+   "English": "be"
+ },
+ {
+   "Spanish": "médico",
+   "English": "doctor"
+ },
+ {
+   "Spanish": "boca",
+   "English": "mouth"
+ },
+ {
+   "Spanish": "dejó",
+   "English": "left"
+ },
+ {
+   "Spanish": "error",
+   "English": "error"
+ },
+ {
+   "Spanish": "jamás",
+   "English": "Never"
+ },
+ {
+   "Spanish": "largo",
+   "English": "long"
+ },
+ {
+   "Spanish": "pena",
+   "English": "pain"
+ },
+ {
+   "Spanish": "voz",
+   "English": "voice"
+ },
+ {
+   "Spanish": "futuro",
+   "English": "future"
+ },
+ {
+   "Spanish": "siente",
+   "English": "feels"
+ },
+ {
+   "Spanish": "secreto",
+   "English": "secret"
+ },
+ {
+   "Spanish": "baño",
+   "English": "bathroom"
+ },
+ {
+   "Spanish": "mil",
+   "English": "thousand"
+ },
+ {
+   "Spanish": "decirte",
+   "English": "tell you"
+ },
+ {
+   "Spanish": "sam",
+   "English": "sam"
+ },
+ {
+   "Spanish": "pensaba",
+   "English": "thought"
+ },
+ {
+   "Spanish": "novia",
+   "English": "girlfriend"
+ },
+ {
+   "Spanish": "propia",
+   "English": "own"
+ },
+ {
+   "Spanish": "sueño",
+   "English": "dream"
+ },
+ {
+   "Spanish": "haz",
+   "English": "make"
+ },
+ {
+   "Spanish": "fuerza",
+   "English": "strength"
+ },
+ {
+   "Spanish": "deben",
+   "English": "should"
+ },
+ {
+   "Spanish": "supone",
+   "English": "supposed"
+ },
+ {
+   "Spanish": "estábamos",
+   "English": "we were"
+ },
+ {
+   "Spanish": "ambos",
+   "English": "both of them"
+ },
+ {
+   "Spanish": "ay",
+   "English": "Oh"
+ },
+ {
+   "Spanish": "estuve",
+   "English": "I was"
+ },
+ {
+   "Spanish": "encontré",
+   "English": "I found"
+ },
+ {
+   "Spanish": "vuelto",
+   "English": "turned"
+ },
+ {
+   "Spanish": "dolor",
+   "English": "pain"
+ },
+ {
+   "Spanish": "dile",
+   "English": "tell him"
+ },
+ {
+   "Spanish": "encanta",
+   "English": "love"
+ },
+ {
+   "Spanish": "edad",
+   "English": "age"
+ },
+ {
+   "Spanish": "darle",
+   "English": "give him"
+ },
+ {
+   "Spanish": "pie",
+   "English": "foot"
+ },
+ {
+   "Spanish": "negro",
+   "English": "black"
+ },
+ {
+   "Spanish": "ganar",
+   "English": "win"
+ },
+ {
+   "Spanish": "york",
+   "English": "york"
+ },
+ {
+   "Spanish": "aire",
+   "English": "air"
+ },
+ {
+   "Spanish": "lamento",
+   "English": "lament"
+ },
+ {
+   "Spanish": "verlo",
+   "English": "see him"
+ },
+ {
+   "Spanish": "asesinato",
+   "English": "murder"
+ },
+ {
+   "Spanish": "vio",
+   "English": "he saw"
+ },
+ {
+   "Spanish": "adónde",
+   "English": "where"
+ },
+ {
+   "Spanish": "llegado",
+   "English": "arrived"
+ },
+ {
+   "Spanish": "disculpe",
+   "English": "sorry"
+ },
+ {
+   "Spanish": "s",
+   "English": "s"
+ },
+ {
+   "Spanish": "cita",
+   "English": "appointment"
+ },
+ {
+   "Spanish": "estaría",
+   "English": "It would"
+ },
+ {
+   "Spanish": "fuiste",
+   "English": "you were"
+ },
+ {
+   "Spanish": "sistema",
+   "English": "system"
+ },
+ {
+   "Spanish": "gusto",
+   "English": "taste"
+ },
+ {
+   "Spanish": "pobre",
+   "English": "poor"
+ },
+ {
+   "Spanish": "negocio",
+   "English": "deal"
+ },
+ {
+   "Spanish": "mente",
+   "English": "mind"
+ },
+ {
+   "Spanish": "tuyo",
+   "English": "of yours"
+ },
+ {
+   "Spanish": "campo",
+   "English": "field"
+ },
+ {
+   "Spanish": "mire",
+   "English": "Look"
+ },
+ {
+   "Spanish": "situación",
+   "English": "situation"
+ },
+ {
+   "Spanish": "tras",
+   "English": "after"
+ },
+ {
+   "Spanish": "hotel",
+   "English": "hotel"
+ },
+ {
+   "Spanish": "vosotros",
+   "English": "you"
+ },
+ {
+   "Spanish": "funciona",
+   "English": "works"
+ },
+ {
+   "Spanish": "foto",
+   "English": "Photo"
+ },
+ {
+   "Spanish": "abogado",
+   "English": "attorney"
+ },
+ {
+   "Spanish": "loca",
+   "English": "crazy"
+ },
+ {
+   "Spanish": "propio",
+   "English": "own"
+ },
+ {
+   "Spanish": "alrededor",
+   "English": "around"
+ },
+ {
+   "Spanish": "próxima",
+   "English": "next"
+ },
+ {
+   "Spanish": "terminado",
+   "English": "finished"
+ },
+ {
+   "Spanish": "hablas",
+   "English": "speak"
+ },
+ {
+   "Spanish": "pagar",
+   "English": "pay"
+ },
+ {
+   "Spanish": "mató",
+   "English": "he killed"
+ },
+ {
+   "Spanish": "llamo",
+   "English": "I call"
+ },
+ {
+   "Spanish": "personal",
+   "English": "personal"
+ },
+ {
+   "Spanish": "sientes",
+   "English": "you feel"
+ },
+ {
+   "Spanish": "ocurre",
+   "English": "occurs"
+ },
+ {
+   "Spanish": "ésta",
+   "English": "this"
+ },
+ {
+   "Spanish": "recuerda",
+   "English": "remember"
+ },
+ {
+   "Spanish": "mitad",
+   "English": "half"
+ },
+ {
+   "Spanish": "quiera",
+   "English": "want"
+ },
+ {
+   "Spanish": "pelo",
+   "English": "hair"
+ },
+ {
+   "Spanish": "tenías",
+   "English": "had"
+ },
+ {
+   "Spanish": "viste",
+   "English": "dresses"
+ },
+ {
+   "Spanish": "oficial",
+   "English": "official"
+ },
+ {
+   "Spanish": "llegó",
+   "English": "I arrive"
+ },
+ {
+   "Spanish": "compañía",
+   "English": "company"
+ },
+ {
+   "Spanish": "relación",
+   "English": "relationship"
+ },
+ {
+   "Spanish": "conoce",
+   "English": "known"
+ },
+ {
+   "Spanish": "pase",
+   "English": "pass"
+ },
+ {
+   "Spanish": "montón",
+   "English": "heap"
+ },
+ {
+   "Spanish": "mejores",
+   "English": "top"
+ },
+ {
+   "Spanish": "creí",
+   "English": "thought"
+ },
+ {
+   "Spanish": "cena",
+   "English": "Dinner"
+ },
+ {
+   "Spanish": "sentir",
+   "English": "feel"
+ },
+ {
+   "Spanish": "través",
+   "English": "through"
+ },
+ {
+   "Spanish": "accidente",
+   "English": "accident"
+ },
+ {
+   "Spanish": "i",
+   "English": "i"
+ },
+ {
+   "Spanish": "ellas",
+   "English": "they"
+ },
+ {
+   "Spanish": "caja",
+   "English": "box"
+ },
+ {
+   "Spanish": "tranquilo",
+   "English": "quiet"
+ },
+ {
+   "Spanish": "bonito",
+   "English": "beautiful"
+ },
+ {
+   "Spanish": "eras",
+   "English": "ages"
+ },
+ {
+   "Spanish": "asi",
+   "English": "So"
+ },
+ {
+   "Spanish": "pudo",
+   "English": "could"
+ },
+ {
+   "Spanish": "vive",
+   "English": "lives"
+ },
+ {
+   "Spanish": "vista",
+   "English": "view"
+ },
+ {
+   "Spanish": "estúpido",
+   "English": "stupid"
+ },
+ {
+   "Spanish": "línea",
+   "English": "line"
+ },
+ {
+   "Spanish": "caballeros",
+   "English": "gentlemen"
+ },
+ {
+   "Spanish": "haremos",
+   "English": "will"
+ },
+ {
+   "Spanish": "dan",
+   "English": "give"
+ },
+ {
+   "Spanish": "quédate",
+   "English": "stay"
+ },
+ {
+   "Spanish": "tienda",
+   "English": "store"
+ },
+ {
+   "Spanish": "comprar",
+   "English": "to buy"
+ },
+ {
+   "Spanish": "entendido",
+   "English": "it is understood"
+ },
+ {
+   "Spanish": "centro",
+   "English": "center"
+ },
+ {
+   "Spanish": "salvo",
+   "English": "except"
+ },
+ {
+   "Spanish": "mes",
+   "English": "month"
+ },
+ {
+   "Spanish": "joe",
+   "English": "joe"
+ },
+ {
+   "Spanish": "sol",
+   "English": "Sun"
+ },
+ {
+   "Spanish": "tonto",
+   "English": "fool"
+ },
+ {
+   "Spanish": "hambre",
+   "English": "hungry"
+ },
+ {
+   "Spanish": "michael",
+   "English": "Michael"
+ },
+ {
+   "Spanish": "mesa",
+   "English": "table"
+ },
+ {
+   "Spanish": "respuesta",
+   "English": "reply"
+ },
+ {
+   "Spanish": "completamente",
+   "English": "completely"
+ },
+ {
+   "Spanish": "david",
+   "English": "David"
+ },
+ {
+   "Spanish": "carta",
+   "English": "letter"
+ },
+ {
+   "Spanish": "totalmente",
+   "English": "totally"
+ },
+ {
+   "Spanish": "imposible",
+   "English": "impossible"
+ },
+ {
+   "Spanish": "pruebas",
+   "English": "tests"
+ },
+ {
+   "Spanish": "novio",
+   "English": "boyfriend"
+ },
+ {
+   "Spanish": "normal",
+   "English": "normal"
+ },
+ {
+   "Spanish": "gustan",
+   "English": "like"
+ },
+ {
+   "Spanish": "frank",
+   "English": "frank"
+ },
+ {
+   "Spanish": "pude",
+   "English": "I could"
+ },
+ {
+   "Spanish": "charlie",
+   "English": "charlie"
+ },
+ {
+   "Spanish": "traje",
+   "English": "suit"
+ },
+ {
+   "Spanish": "dirección",
+   "English": "direction"
+ },
+ {
+   "Spanish": "siete",
+   "English": "seven"
+ },
+ {
+   "Spanish": "dijeron",
+   "English": "they said"
+ },
+ {
+   "Spanish": "placer",
+   "English": "pleasure"
+ },
+ {
+   "Spanish": "sean",
+   "English": "are"
+ },
+ {
+   "Spanish": "tendrá",
+   "English": "will have"
+ },
+ {
+   "Spanish": "barco",
+   "English": "ship"
+ },
+ {
+   "Spanish": "blanco",
+   "English": "White"
+ },
+ {
+   "Spanish": "tom",
+   "English": "tom"
+ },
+ {
+   "Spanish": "profesor",
+   "English": "professor"
+ },
+ {
+   "Spanish": "servicio",
+   "English": "service"
+ },
+ {
+   "Spanish": "muchacho",
+   "English": "boy"
+ },
+ {
+   "Spanish": "reunión",
+   "English": "meeting"
+ },
+ {
+   "Spanish": "dejado",
+   "English": "left"
+ },
+ {
+   "Spanish": "ley",
+   "English": "law"
+ },
+ {
+   "Spanish": "quisiera",
+   "English": "I would like"
+ },
+ {
+   "Spanish": "hubo",
+   "English": "there was"
+ },
+ {
+   "Spanish": "george",
+   "English": "george"
+ },
+ {
+   "Spanish": "programa",
+   "English": "Program"
+ },
+ {
+   "Spanish": "carrera",
+   "English": "career"
+ },
+ {
+   "Spanish": "cumpleaños",
+   "English": "birthday"
+ },
+ {
+   "Spanish": "muchachos",
+   "English": "boys"
+ },
+ {
+   "Spanish": "culo",
+   "English": "ass"
+ },
+ {
+   "Spanish": "canción",
+   "English": "song"
+ },
+ {
+   "Spanish": "hermosa",
+   "English": "beautiful"
+ },
+ {
+   "Spanish": "universidad",
+   "English": "college"
+ },
+ {
+   "Spanish": "boda",
+   "English": "wedding"
+ },
+ {
+   "Spanish": "decirme",
+   "English": "tell me"
+ },
+ {
+   "Spanish": "cualquiera",
+   "English": "anyone"
+ },
+ {
+   "Spanish": "tengas",
+   "English": "you have"
+ },
+ {
+   "Spanish": "hacía",
+   "English": "toward"
+ },
+ {
+   "Spanish": "estés",
+   "English": "re"
+ },
+ {
+   "Spanish": "sala",
+   "English": "room"
+ },
+ {
+   "Spanish": "llevo",
+   "English": "I wear"
+ },
+ {
+   "Spanish": "decisión",
+   "English": "decision"
+ },
+ {
+   "Spanish": "espere",
+   "English": "Wait"
+ },
+ {
+   "Spanish": "don",
+   "English": "Don"
+ },
+ {
+   "Spanish": "necesario",
+   "English": "necessary"
+ },
+ {
+   "Spanish": "sal",
+   "English": "Salt"
+ },
+ {
+   "Spanish": "entra",
+   "English": "enters"
+ },
+ {
+   "Spanish": "prisa",
+   "English": "rush"
+ },
+ {
+   "Spanish": "carajo",
+   "English": "fuck"
+ },
+ {
+   "Spanish": "embargo",
+   "English": "embargo"
+ },
+ {
+   "Spanish": "interesante",
+   "English": "interesting"
+ },
+ {
+   "Spanish": "tendrás",
+   "English": "you will have"
+ },
+ {
+   "Spanish": "escuchar",
+   "English": "hear"
+ },
+ {
+   "Spanish": "abuela",
+   "English": "grandmother"
+ },
+ {
+   "Spanish": "hicieron",
+   "English": "they made"
+ },
+ {
+   "Spanish": "detective",
+   "English": "detective"
+ },
+ {
+   "Spanish": "horrible",
+   "English": "horrible"
+ },
+ {
+   "Spanish": "suelo",
+   "English": "floor"
+ },
+ {
+   "Spanish": "fotos",
+   "English": "Photos"
+ },
+ {
+   "Spanish": "cárcel",
+   "English": "jail"
+ },
+ {
+   "Spanish": "acá",
+   "English": "here"
+ },
+ {
+   "Spanish": "io",
+   "English": "io"
+ },
+ {
+   "Spanish": "mike",
+   "English": "mike"
+ },
+ {
+   "Spanish": "siéntate",
+   "English": "Sit down"
+ },
+ {
+   "Spanish": "decía",
+   "English": "He said"
+ },
+ {
+   "Spanish": "intentando",
+   "English": "trying"
+ },
+ {
+   "Spanish": "vámonos",
+   "English": "Let's go"
+ },
+ {
+   "Spanish": "maldición",
+   "English": "damn"
+ },
+ {
+   "Spanish": "silencio",
+   "English": "silence"
+ },
+ {
+   "Spanish": "muerta",
+   "English": "dead"
+ },
+ {
+   "Spanish": "capaz",
+   "English": "able"
+ },
+ {
+   "Spanish": "salió",
+   "English": "he left"
+ },
+ {
+   "Spanish": "club",
+   "English": "club"
+ },
+ {
+   "Spanish": "terminar",
+   "English": "end up"
+ },
+ {
+   "Spanish": "temo",
+   "English": "fear"
+ },
+ {
+   "Spanish": "broma",
+   "English": "joke"
+ },
+ {
+   "Spanish": "gobierno",
+   "English": "government"
+ },
+ {
+   "Spanish": "prometo",
+   "English": "I promise"
+ },
+ {
+   "Spanish": "cámara",
+   "English": "camera"
+ },
+ {
+   "Spanish": "media",
+   "English": "half"
+ },
+ {
+   "Spanish": "terrible",
+   "English": "terrible"
+ },
+ {
+   "Spanish": "llamó",
+   "English": "I call"
+ },
+ {
+   "Spanish": "regalo",
+   "English": "present"
+ },
+ {
+   "Spanish": "amable",
+   "English": "nice"
+ },
+ {
+   "Spanish": "dulce",
+   "English": "sweet"
+ },
+ {
+   "Spanish": "muertos",
+   "English": "dead"
+ },
+ {
+   "Spanish": "querías",
+   "English": "wanted"
+ },
+ {
+   "Spanish": "ataque",
+   "English": "attack"
+ },
+ {
+   "Spanish": "das",
+   "English": "you give"
+ },
+ {
+   "Spanish": "navidad",
+   "English": "Christmas"
+ },
+ {
+   "Spanish": "negocios",
+   "English": "business"
+ },
+ {
+   "Spanish": "pudiera",
+   "English": "could"
+ },
+ {
+   "Spanish": "ocho",
+   "English": "eight"
+ },
+ {
+   "Spanish": "avión",
+   "English": "plane"
+ },
+ {
+   "Spanish": "investigación",
+   "English": "investigation"
+ },
+ {
+   "Spanish": "acabó",
+   "English": "finished"
+ },
+ {
+   "Spanish": "juro",
+   "English": "I swear"
+ },
+ {
+   "Spanish": "mantener",
+   "English": "keep"
+ },
+ {
+   "Spanish": "ejército",
+   "English": "army"
+ },
+ {
+   "Spanish": "papel",
+   "English": "paper"
+ },
+ {
+   "Spanish": "partes",
+   "English": "parts"
+ },
+ {
+   "Spanish": "ten",
+   "English": "ten"
+ },
+ {
+   "Spanish": "gracioso",
+   "English": "funny"
+ },
+ {
+   "Spanish": "diría",
+   "English": "would say"
+ },
+ {
+   "Spanish": "principio",
+   "English": "beginning"
+ },
+ {
+   "Spanish": "delante",
+   "English": "in front"
+ },
+ {
+   "Spanish": "teniente",
+   "English": "lieutenant"
+ },
+ {
+   "Spanish": "deseo",
+   "English": "wish"
+ },
+ {
+   "Spanish": "vayas",
+   "English": "go"
+ },
+ {
+   "Spanish": "nave",
+   "English": "ship"
+ },
+ {
+   "Spanish": "sale",
+   "English": "comes out"
+ },
+ {
+   "Spanish": "basura",
+   "English": "garbage"
+ },
+ {
+   "Spanish": "vine",
+   "English": "came"
+ },
+ {
+   "Spanish": "contacto",
+   "English": "Contact"
+ },
+ {
+   "Spanish": "esposo",
+   "English": "husband"
+ },
+ {
+   "Spanish": "tren",
+   "English": "train"
+ },
+ {
+   "Spanish": "encontramos",
+   "English": "we find"
+ },
+ {
+   "Spanish": "dale",
+   "English": "Go ahead"
+ },
+ {
+   "Spanish": "verdadero",
+   "English": "true"
+ },
+ {
+   "Spanish": "tuya",
+   "English": "yours"
+ },
+ {
+   "Spanish": "alma",
+   "English": "soul"
+ },
+ {
+   "Spanish": "hazlo",
+   "English": "do it"
+ },
+ {
+   "Spanish": "disculpa",
+   "English": "Sorry"
+ },
+ {
+   "Spanish": "junto",
+   "English": "together"
+ },
+ {
+   "Spanish": "anda",
+   "English": "anda"
+ },
+ {
+   "Spanish": "tendré",
+   "English": "I will have"
+ },
+ {
+   "Spanish": "matrimonio",
+   "English": "marriage"
+ },
+ {
+   "Spanish": "saberlo",
+   "English": "I know"
+ },
+ {
+   "Spanish": "locura",
+   "English": "madness"
+ },
+ {
+   "Spanish": "oro",
+   "English": "gold"
+ },
+ {
+   "Spanish": "permiso",
+   "English": "Excuse me"
+ },
+ {
+   "Spanish": "director",
+   "English": "director"
+ },
+ {
+   "Spanish": "peligro",
+   "English": "danger"
+ },
+ {
+   "Spanish": "libertad",
+   "English": "freedom"
+ },
+ {
+   "Spanish": "alegro",
+   "English": "glad"
+ },
+ {
+   "Spanish": "baja",
+   "English": "low"
+ },
+ {
+   "Spanish": "tendremos",
+   "English": "we will have"
+ },
+ {
+   "Spanish": "derecha",
+   "English": "right"
+ },
+ {
+   "Spanish": "encuentra",
+   "English": "find"
+ },
+ {
+   "Spanish": "pies",
+   "English": "feet"
+ },
+ {
+   "Spanish": "segunda",
+   "English": "second"
+ },
+ {
+   "Spanish": "maravilloso",
+   "English": "wonderful"
+ },
+ {
+   "Spanish": "espacio",
+   "English": "space"
+ },
+ {
+   "Spanish": "rato",
+   "English": "little while"
+ },
+ {
+   "Spanish": "abuelo",
+   "English": "grandfather"
+ },
+ {
+   "Spanish": "esperaba",
+   "English": "I expected"
+ },
+ {
+   "Spanish": "mirando",
+   "English": "looking"
+ },
+ {
+   "Spanish": "salud",
+   "English": "Health"
+ },
+ {
+   "Spanish": "sorpresa",
+   "English": "surprise"
+ },
+ {
+   "Spanish": "ninguno",
+   "English": "none"
+ },
+ {
+   "Spanish": "miren",
+   "English": "look"
+ },
+ {
+   "Spanish": "triste",
+   "English": "sad"
+ },
+ {
+   "Spanish": "aun",
+   "English": "yet"
+ },
+ {
+   "Spanish": "pensado",
+   "English": "thought-out"
+ },
+ {
+   "Spanish": "maestro",
+   "English": "teacher"
+ },
+ {
+   "Spanish": "según",
+   "English": "according"
+ },
+ {
+   "Spanish": "infierno",
+   "English": "hell"
+ },
+ {
+   "Spanish": "podrían",
+   "English": "could"
+ },
+ {
+   "Spanish": "tipos",
+   "English": "types"
+ },
+ {
+   "Spanish": "tía",
+   "English": "aunt"
+ },
+ {
+   "Spanish": "crimen",
+   "English": "crime"
+ },
+ {
+   "Spanish": "conocido",
+   "English": "known"
+ },
+ {
+   "Spanish": "consejo",
+   "English": "advice"
+ },
+ {
+   "Spanish": "ante",
+   "English": "before"
+ },
+ {
+   "Spanish": "iglesia",
+   "English": "church"
+ },
+ {
+   "Spanish": "intento",
+   "English": "tried"
+ },
+ {
+   "Spanish": "mayoría",
+   "English": "most"
+ },
+ {
+   "Spanish": "doy",
+   "English": "I give"
+ },
+ {
+   "Spanish": "peter",
+   "English": "peter"
+ },
+ {
+   "Spanish": "hicimos",
+   "English": "we did"
+ },
+ {
+   "Spanish": "escena",
+   "English": "scene"
+ },
+ {
+   "Spanish": "piso",
+   "English": "floor"
+ },
+ {
+   "Spanish": "señal",
+   "English": "signal"
+ },
+ {
+   "Spanish": "honor",
+   "English": "honor"
+ },
+ {
+   "Spanish": "llamas",
+   "English": "calls"
+ },
+ {
+   "Spanish": "abre",
+   "English": "opens"
+ },
+ {
+   "Spanish": "cerebro",
+   "English": "brain"
+ },
+ {
+   "Spanish": "veras",
+   "English": "you'll see"
+ },
+ {
+   "Spanish": "viendo",
+   "English": "seeing"
+ },
+ {
+   "Spanish": "pone",
+   "English": "places"
+ },
+ {
+   "Spanish": "pregunto",
+   "English": "I ask"
+ },
+ {
+   "Spanish": "cocina",
+   "English": "kitchen"
+ },
+ {
+   "Spanish": "vestido",
+   "English": "dress"
+ },
+ {
+   "Spanish": "inteligente",
+   "English": "smart"
+ },
+ {
+   "Spanish": "vieja",
+   "English": "old woman"
+ },
+ {
+   "Spanish": "caballo",
+   "English": "horse"
+ },
+ {
+   "Spanish": "vienen",
+   "English": "they come"
+ },
+ {
+   "Spanish": "vidas",
+   "English": "lifes"
+ },
+ {
+   "Spanish": "bar",
+   "English": "Pub"
+ },
+ {
+   "Spanish": "corte",
+   "English": "cut"
+ },
+ {
+   "Spanish": "sucedió",
+   "English": "it happened"
+ },
+ {
+   "Spanish": "adentro",
+   "English": "indoors"
+ },
+ {
+   "Spanish": "drogas",
+   "English": "drugs"
+ },
+ {
+   "Spanish": "enseguida",
+   "English": "right away"
+ },
+ {
+   "Spanish": "busca",
+   "English": "search"
+ },
+ {
+   "Spanish": "agradable",
+   "English": "nice"
+ },
+ {
+   "Spanish": "carne",
+   "English": "meat"
+ },
+ {
+   "Spanish": "parecía",
+   "English": "looked like"
+ },
+ {
+   "Spanish": "departamento",
+   "English": "Department"
+ },
+ {
+   "Spanish": "lindo",
+   "English": "cute"
+ },
+ {
+   "Spanish": "mar",
+   "English": "sea"
+ },
+ {
+   "Spanish": "duda",
+   "English": "doubt"
+ },
+ {
+   "Spanish": "edificio",
+   "English": "building"
+ },
+ {
+   "Spanish": "conocer",
+   "English": "know"
+ },
+ {
+   "Spanish": "cargo",
+   "English": "position"
+ },
+ {
+   "Spanish": "víctima",
+   "English": "victim"
+ },
+ {
+   "Spanish": "luna",
+   "English": "Moon"
+ },
+ {
+   "Spanish": "energía",
+   "English": "Energy"
+ },
+ {
+   "Spanish": "frío",
+   "English": "cold"
+ },
+ {
+   "Spanish": "hablo",
+   "English": "I speak"
+ },
+ {
+   "Spanish": "baile",
+   "English": "dance"
+ },
+ {
+   "Spanish": "trabaja",
+   "English": "working"
+ },
+ {
+   "Spanish": "misión",
+   "English": "mission"
+ },
+ {
+   "Spanish": "listos",
+   "English": "ready"
+ },
+ {
+   "Spanish": "ayudarte",
+   "English": "help you"
+ },
+ {
+   "Spanish": "izquierda",
+   "English": "left"
+ },
+ {
+   "Spanish": "paul",
+   "English": "paul"
+ },
+ {
+   "Spanish": "beber",
+   "English": "to drink"
+ },
+ {
+   "Spanish": "deje",
+   "English": "leave"
+ },
+ {
+   "Spanish": "finalmente",
+   "English": "Finally"
+ },
+ {
+   "Spanish": "simple",
+   "English": "simple"
+ },
+ {
+   "Spanish": "daré",
+   "English": "I'll give"
+ },
+ {
+   "Spanish": "sabías",
+   "English": "You know"
+ },
+ {
+   "Spanish": "puedas",
+   "English": "can"
+ },
+ {
+   "Spanish": "puso",
+   "English": "put"
+ },
+ {
+   "Spanish": "creía",
+   "English": "thought"
+ },
+ {
+   "Spanish": "regresar",
+   "English": "to return"
+ },
+ {
+   "Spanish": "llega",
+   "English": "arrives"
+ },
+ {
+   "Spanish": "entender",
+   "English": "understand"
+ },
+ {
+   "Spanish": "mirar",
+   "English": "look"
+ },
+ {
+   "Spanish": "sacar",
+   "English": "take"
+ },
+ {
+   "Spanish": "cambiado",
+   "English": "changed"
+ },
+ {
+   "Spanish": "trae",
+   "English": "brings"
+ },
+ {
+   "Spanish": "hermoso",
+   "English": "beautiful"
+ },
+ {
+   "Spanish": "opinión",
+   "English": "opinion"
+ },
+ {
+   "Spanish": "verás",
+   "English": "you'll see"
+ },
+ {
+   "Spanish": "linda",
+   "English": "beautiful"
+ },
+ {
+   "Spanish": "apenas",
+   "English": "barely"
+ },
+ {
+   "Spanish": "segundos",
+   "English": "seconds"
+ },
+ {
+   "Spanish": "cerveza",
+   "English": "beer"
+ },
+ {
+   "Spanish": "harás",
+   "English": "you will do"
+ },
+ {
+   "Spanish": "estuviera",
+   "English": "was"
+ },
+ {
+   "Spanish": "creen",
+   "English": "believe"
+ },
+ {
+   "Spanish": "oír",
+   "English": "hear"
+ },
+ {
+   "Spanish": "tendría",
+   "English": "would have"
+ },
+ {
+   "Spanish": "cuántos",
+   "English": "how many"
+ },
+ {
+   "Spanish": "hablado",
+   "English": "spoken"
+ },
+ {
+   "Spanish": "hablamos",
+   "English": "We speak"
+ },
+ {
+   "Spanish": "reina",
+   "English": "Queen"
+ },
+ {
+   "Spanish": "temprano",
+   "English": "early"
+ },
+ {
+   "Spanish": "tema",
+   "English": "topic"
+ },
+ {
+   "Spanish": "prisión",
+   "English": "prison"
+ },
+ {
+   "Spanish": "porqué",
+   "English": "why"
+ },
+ {
+   "Spanish": "vuelva",
+   "English": "return"
+ },
+ {
+   "Spanish": "público",
+   "English": "public"
+ },
+ {
+   "Spanish": "ocurrió",
+   "English": "occurred"
+ },
+ {
+   "Spanish": "veré",
+   "English": "I will see"
+ },
+ {
+   "Spanish": "salvar",
+   "English": "save"
+ },
+ {
+   "Spanish": "partido",
+   "English": "match"
+ },
+ {
+   "Spanish": "bonita",
+   "English": "pretty"
+ },
+ {
+   "Spanish": "joder",
+   "English": "fuck"
+ },
+ {
+   "Spanish": "causa",
+   "English": "cause"
+ },
+ {
+   "Spanish": "caliente",
+   "English": "hot"
+ },
+ {
+   "Spanish": "sargento",
+   "English": "sergeant"
+ },
+ {
+   "Spanish": "cenar",
+   "English": "dinner"
+ },
+ {
+   "Spanish": "compañero",
+   "English": "partner"
+ },
+ {
+   "Spanish": "llevó",
+   "English": "I wear"
+ },
+ {
+   "Spanish": "banco",
+   "English": "Bank"
+ },
+ {
+   "Spanish": "existe",
+   "English": "exists"
+ },
+ {
+   "Spanish": "ben",
+   "English": "ben"
+ },
+ {
+   "Spanish": "zona",
+   "English": "zone"
+ },
+ {
+   "Spanish": "destino",
+   "English": "destination"
+ },
+ {
+   "Spanish": "base",
+   "English": "base"
+ },
+ {
+   "Spanish": "solía",
+   "English": "used to"
+ },
+ {
+   "Spanish": "cliente",
+   "English": "client"
+ },
+ {
+   "Spanish": "irse",
+   "English": "leave"
+ },
+ {
+   "Spanish": "perra",
+   "English": "female dog"
+ },
+ {
+   "Spanish": "james",
+   "English": "James"
+ },
+ {
+   "Spanish": "encuentro",
+   "English": "meeting"
+ },
+ {
+   "Spanish": "encontró",
+   "English": "he found"
+ },
+ {
+   "Spanish": "pelea",
+   "English": "Fight"
+ },
+ {
+   "Spanish": "san",
+   "English": "saint"
+ },
+ {
+   "Spanish": "norte",
+   "English": "north"
+ },
+ {
+   "Spanish": "quise",
+   "English": "I wanted"
+ },
+ {
+   "Spanish": "coronel",
+   "English": "colonel"
+ },
+ {
+   "Spanish": "apuesto",
+   "English": "handsome"
+ },
+ {
+   "Spanish": "peligroso",
+   "English": "dangerous"
+ },
+ {
+   "Spanish": "viva",
+   "English": "live"
+ },
+ {
+   "Spanish": "max",
+   "English": "max"
+ },
+ {
+   "Spanish": "vienes",
+   "English": "you come"
+ },
+ {
+   "Spanish": "necesitan",
+   "English": "need"
+ },
+ {
+   "Spanish": "té",
+   "English": "tea"
+ },
+ {
+   "Spanish": "excepto",
+   "English": "except"
+ },
+ {
+   "Spanish": "juicio",
+   "English": "judgment"
+ },
+ {
+   "Spanish": "podamos",
+   "English": "we can"
+ },
+ {
+   "Spanish": "llave",
+   "English": "key"
+ },
+ {
+   "Spanish": "equivocado",
+   "English": "wrong"
+ },
+ {
+   "Spanish": "posición",
+   "English": "position"
+ },
+ {
+   "Spanish": "trasero",
+   "English": "rear"
+ },
+ {
+   "Spanish": "irnos",
+   "English": "leave"
+ },
+ {
+   "Spanish": "espalda",
+   "English": "back"
+ },
+ {
+   "Spanish": "excelente",
+   "English": "Excellent"
+ },
+ {
+   "Spanish": "éxito",
+   "English": "success"
+ },
+ {
+   "Spanish": "modos",
+   "English": "modes"
+ },
+ {
+   "Spanish": "ventana",
+   "English": "window"
+ },
+ {
+   "Spanish": "veamos",
+   "English": "let's see"
+ },
+ {
+   "Spanish": "especie",
+   "English": "species"
+ },
+ {
+   "Spanish": "teníamos",
+   "English": "we had"
+ },
+ {
+   "Spanish": "diferencia",
+   "English": "difference"
+ },
+ {
+   "Spanish": "formas",
+   "English": "shapes"
+ },
+ {
+   "Spanish": "pedir",
+   "English": "ask"
+ },
+ {
+   "Spanish": "últimos",
+   "English": "latest"
+ },
+ {
+   "Spanish": "escúchame",
+   "English": "listen to me"
+ },
+ {
+   "Spanish": "ejemplo",
+   "English": "example"
+ },
+ {
+   "Spanish": "ése",
+   "English": "that"
+ },
+ {
+   "Spanish": "radio",
+   "English": "radio"
+ },
+ {
+   "Spanish": "lee",
+   "English": "read"
+ },
+ {
+   "Spanish": "calma",
+   "English": "calm"
+ },
+ {
+   "Spanish": "hogar",
+   "English": "home"
+ },
+ {
+   "Spanish": "volveré",
+   "English": "I will be back"
+ },
+ {
+   "Spanish": "fondo",
+   "English": "background"
+ },
+ {
+   "Spanish": "humano",
+   "English": "human"
+ },
+ {
+   "Spanish": "henry",
+   "English": "Henry"
+ },
+ {
+   "Spanish": "tí",
+   "English": "you"
+ },
+ {
+   "Spanish": "iremos",
+   "English": "we'll go"
+ },
+ {
+   "Spanish": "unidos",
+   "English": "United"
+ },
+ {
+   "Spanish": "habían",
+   "English": "they had"
+ },
+ {
+   "Spanish": "jesús",
+   "English": "Jesus"
+ },
+ {
+   "Spanish": "planeta",
+   "English": "planet"
+ },
+ {
+   "Spanish": "verme",
+   "English": "see me"
+ },
+ {
+   "Spanish": "respecto",
+   "English": "respect"
+ },
+ {
+   "Spanish": "regreso",
+   "English": "Return"
+ },
+ {
+   "Spanish": "debido",
+   "English": "due"
+ },
+ {
+   "Spanish": "seré",
+   "English": "I will be"
+ },
+ {
+   "Spanish": "tenían",
+   "English": "They had"
+ },
+ {
+   "Spanish": "leer",
+   "English": "read"
+ },
+ {
+   "Spanish": "parar",
+   "English": "stop"
+ },
+ {
+   "Spanish": "lleno",
+   "English": "full"
+ },
+ {
+   "Spanish": "dejé",
+   "English": "leave"
+ },
+ {
+   "Spanish": "respeto",
+   "English": "respect"
+ },
+ {
+   "Spanish": "debajo",
+   "English": "below"
+ },
+ {
+   "Spanish": "harry",
+   "English": "harry"
+ },
+ {
+   "Spanish": "escribir",
+   "English": "to write"
+ },
+ {
+   "Spanish": "estación",
+   "English": "station"
+ },
+ {
+   "Spanish": "pidió",
+   "English": "he asked"
+ },
+ {
+   "Spanish": "alta",
+   "English": "high"
+ },
+ {
+   "Spanish": "pista",
+   "English": "track"
+ },
+ {
+   "Spanish": "estrella",
+   "English": "star"
+ },
+ {
+   "Spanish": "enfermo",
+   "English": "sick"
+ },
+ {
+   "Spanish": "duele",
+   "English": "it hurt"
+ },
+ {
+   "Spanish": "sueños",
+   "English": "dreams"
+ },
+ {
+   "Spanish": "veremos",
+   "English": "we will see"
+ },
+ {
+   "Spanish": "miles",
+   "English": "Thousands"
+ },
+ {
+   "Spanish": "darme",
+   "English": "give me"
+ },
+ {
+   "Spanish": "órdenes",
+   "English": "orders"
+ },
+ {
+   "Spanish": "ocupado",
+   "English": "occupied"
+ },
+ {
+   "Spanish": "sigues",
+   "English": "are you still"
+ },
+ {
+   "Spanish": "corre",
+   "English": "run"
+ },
+ {
+   "Spanish": "podido",
+   "English": "I have"
+ },
+ {
+   "Spanish": "dejes",
+   "English": "leave"
+ },
+ {
+   "Spanish": "nivel",
+   "English": "level"
+ },
+ {
+   "Spanish": "habéis",
+   "English": "have"
+ },
+ {
+   "Spanish": "experiencia",
+   "English": "experience"
+ },
+ {
+   "Spanish": "darte",
+   "English": "to give you"
+ },
+ {
+   "Spanish": "salida",
+   "English": "departure"
+ },
+ {
+   "Spanish": "decirlo",
+   "English": "I say"
+ },
+ {
+   "Spanish": "confiar",
+   "English": "trust"
+ },
+ {
+   "Spanish": "hacerte",
+   "English": "make"
+ },
+ {
+   "Spanish": "necesitaba",
+   "English": "needed"
+ },
+ {
+   "Spanish": "hermanos",
+   "English": "brothers"
+ },
+ {
+   "Spanish": "zapatos",
+   "English": "shoes"
+ },
+ {
+   "Spanish": "color",
+   "English": "Colour"
+ },
+ {
+   "Spanish": "vistazo",
+   "English": "glance"
+ },
+ {
+   "Spanish": "nena",
+   "English": "baby"
+ },
+ {
+   "Spanish": "tratar",
+   "English": "try"
+ },
+ {
+   "Spanish": "parecer",
+   "English": "seem"
+ },
+ {
+   "Spanish": "juez",
+   "English": "judge"
+ },
+ {
+   "Spanish": "próximo",
+   "English": "next"
+ },
+ {
+   "Spanish": "paciente",
+   "English": "patient"
+ },
+ {
+   "Spanish": "hayas",
+   "English": "have"
+ },
+ {
+   "Spanish": "bolsa",
+   "English": "bag"
+ },
+ {
+   "Spanish": "arte",
+   "English": "art"
+ },
+ {
+   "Spanish": "mary",
+   "English": "mary"
+ },
+ {
+   "Spanish": "jugando",
+   "English": "Playing"
+ },
+ {
+   "Spanish": "llevas",
+   "English": "take"
+ },
+ {
+   "Spanish": "alegra",
+   "English": "happy"
+ },
+ {
+   "Spanish": "bailar",
+   "English": "dance"
+ },
+ {
+   "Spanish": "diablo",
+   "English": "Devil"
+ },
+ {
+   "Spanish": "oí",
+   "English": "heard"
+ },
+ {
+   "Spanish": "sepa",
+   "English": "know"
+ },
+ {
+   "Spanish": "estarás",
+   "English": "you will"
+ },
+ {
+   "Spanish": "sur",
+   "English": "south"
+ },
+ {
+   "Spanish": "banda",
+   "English": "band"
+ },
+ {
+   "Spanish": "aprender",
+   "English": "to learn"
+ },
+ {
+   "Spanish": "precio",
+   "English": "price"
+ },
+ {
+   "Spanish": "completo",
+   "English": "full"
+ },
+ {
+   "Spanish": "santo",
+   "English": "holy"
+ },
+ {
+   "Spanish": "culpable",
+   "English": "guilty"
+ },
+ {
+   "Spanish": "ganas",
+   "English": "forward"
+ },
+ {
+   "Spanish": "tuvimos",
+   "English": "we had"
+ },
+ {
+   "Spanish": "you",
+   "English": "you"
+ },
+ {
+   "Spanish": "verla",
+   "English": "see it"
+ },
+ {
+   "Spanish": "volvió",
+   "English": "went back"
+ },
+ {
+   "Spanish": "libros",
+   "English": "books"
+ },
+ {
+   "Spanish": "ojo",
+   "English": "eye"
+ },
+ {
+   "Spanish": "serán",
+   "English": "will be"
+ },
+ {
+   "Spanish": "cielos",
+   "English": "Heavens"
+ },
+ {
+   "Spanish": "matado",
+   "English": "killed"
+ },
+ {
+   "Spanish": "azul",
+   "English": "blue"
+ },
+ {
+   "Spanish": "diferentes",
+   "English": "different"
+ },
+ {
+   "Spanish": "irte",
+   "English": "leave"
+ },
+ {
+   "Spanish": "ia",
+   "English": "ia"
+ },
+ {
+   "Spanish": "comandante",
+   "English": "commander"
+ },
+ {
+   "Spanish": "acción",
+   "English": "action"
+ },
+ {
+   "Spanish": "reglas",
+   "English": "rules"
+ },
+ {
+   "Spanish": "obra",
+   "English": "work"
+ },
+ {
+   "Spanish": "esperanza",
+   "English": "hope"
+ },
+ {
+   "Spanish": "cuestión",
+   "English": "question"
+ },
+ {
+   "Spanish": "molesta",
+   "English": "upset"
+ },
+ {
+   "Spanish": "teniendo",
+   "English": "having"
+ },
+ {
+   "Spanish": "bill",
+   "English": "bill"
+ },
+ {
+   "Spanish": "informe",
+   "English": "report"
+ },
+ {
+   "Spanish": "jimmy",
+   "English": "jimmy"
+ },
+ {
+   "Spanish": "río",
+   "English": "River"
+ },
+ {
+   "Spanish": "bienvenido",
+   "English": "welcome"
+ },
+ {
+   "Spanish": "abrir",
+   "English": "open"
+ },
+ {
+   "Spanish": "tocar",
+   "English": "play"
+ },
+ {
+   "Spanish": "bob",
+   "English": "bob"
+ },
+ {
+   "Spanish": "contar",
+   "English": "tell"
+ },
+ {
+   "Spanish": "sigo",
+   "English": "I follow"
+ },
+ {
+   "Spanish": "interior",
+   "English": "inside"
+ },
+ {
+   "Spanish": "apartamento",
+   "English": "apartment"
+ },
+ {
+   "Spanish": "vea",
+   "English": "see"
+ },
+ {
+   "Spanish": "estados",
+   "English": "state"
+ },
+ {
+   "Spanish": "estáis",
+   "English": "you are"
+ },
+ {
+   "Spanish": "preocupa",
+   "English": "worries"
+ },
+ {
+   "Spanish": "tomó",
+   "English": "I take"
+ },
+ {
+   "Spanish": "principal",
+   "English": "principal"
+ },
+ {
+   "Spanish": "empieza",
+   "English": "starts"
+ },
+ {
+   "Spanish": "londres",
+   "English": "London"
+ },
+ {
+   "Spanish": "empezó",
+   "English": "it started"
+ },
+ {
+   "Spanish": "vayan",
+   "English": "go"
+ },
+ {
+   "Spanish": "jim",
+   "English": "jim"
+ },
+ {
+   "Spanish": "llaman",
+   "English": "call"
+ },
+ {
+   "Spanish": "ojalá",
+   "English": "hopefully"
+ },
+ {
+   "Spanish": "perdona",
+   "English": "forgives"
+ },
+ {
+   "Spanish": "vuelvo",
+   "English": "I come back"
+ },
+ {
+   "Spanish": "golpe",
+   "English": "knock"
+ },
+ {
+   "Spanish": "quedarme",
+   "English": "stay"
+ },
+ {
+   "Spanish": "llamaré",
+   "English": "I'll call"
+ },
+ {
+   "Spanish": "acabado",
+   "English": "finish"
+ },
+ {
+   "Spanish": "estilo",
+   "English": "style"
+ },
+ {
+   "Spanish": "nueve",
+   "English": "nine"
+ },
+ {
+   "Spanish": "definitivamente",
+   "English": "definitely"
+ },
+ {
+   "Spanish": "quedar",
+   "English": "stay"
+ },
+ {
+   "Spanish": "cartas",
+   "English": "letters"
+ },
+ {
+   "Spanish": "bomba",
+   "English": "bomb"
+ },
+ {
+   "Spanish": "guardia",
+   "English": "guard"
+ },
+ {
+   "Spanish": "pistola",
+   "English": "gun"
+ },
+ {
+   "Spanish": "probar",
+   "English": "try"
+ },
+ {
+   "Spanish": "majestad",
+   "English": "majesty"
+ },
+ {
+   "Spanish": "traer",
+   "English": "bring"
+ },
+ {
+   "Spanish": "marcha",
+   "English": "March"
+ },
+ {
+   "Spanish": "pareces",
+   "English": "look"
+ },
+ {
+   "Spanish": "común",
+   "English": "common"
+ },
+ {
+   "Spanish": "aquel",
+   "English": "that"
+ },
+ {
+   "Spanish": "hacerle",
+   "English": "make"
+ },
+ {
+   "Spanish": "vuelo",
+   "English": "flight"
+ },
+ {
+   "Spanish": "nota",
+   "English": "note"
+ },
+ {
+   "Spanish": "danny",
+   "English": "danny"
+ },
+ {
+   "Spanish": "humanos",
+   "English": "humans"
+ },
+ {
+   "Spanish": "estaremos",
+   "English": "we will be"
+ },
+ {
+   "Spanish": "valor",
+   "English": "value"
+ },
+ {
+   "Spanish": "suyo",
+   "English": "yours"
+ },
+ {
+   "Spanish": "objetivo",
+   "English": "objective"
+ },
+ {
+   "Spanish": "repente",
+   "English": "suddenly"
+ },
+ {
+   "Spanish": "debía",
+   "English": "should"
+ },
+ {
+   "Spanish": "rojo",
+   "English": "Red"
+ },
+ {
+   "Spanish": "bromeando",
+   "English": "joking"
+ },
+ {
+   "Spanish": "irá",
+   "English": "go to"
+ },
+ {
+   "Spanish": "entrada",
+   "English": "entry"
+ },
+ {
+   "Spanish": "doble",
+   "English": "double"
+ },
+ {
+   "Spanish": "dejaré",
+   "English": "I'll leave"
+ },
+ {
+   "Spanish": "evitar",
+   "English": "avoid"
+ },
+ {
+   "Spanish": "máquina",
+   "English": "machine"
+ },
+ {
+   "Spanish": "cuello",
+   "English": "neck"
+ },
+ {
+   "Spanish": "conocí",
+   "English": "I met"
+ },
+ {
+   "Spanish": "tiempos",
+   "English": "time"
+ },
+ {
+   "Spanish": "tome",
+   "English": "take"
+ },
+ {
+   "Spanish": "nick",
+   "English": "nick"
+ },
+ {
+   "Spanish": "animales",
+   "English": "animals"
+ },
+ {
+   "Spanish": "alex",
+   "English": "alex"
+ },
+ {
+   "Spanish": "acaso",
+   "English": "perhaps"
+ },
+ {
+   "Spanish": "tuviera",
+   "English": "had"
+ },
+ {
+   "Spanish": "pareja",
+   "English": "couple"
+ },
+ {
+   "Spanish": "verano",
+   "English": "summer"
+ },
+ {
+   "Spanish": "escuché",
+   "English": "I listened"
+ },
+ {
+   "Spanish": "ama",
+   "English": "love"
+ },
+ {
+   "Spanish": "serás",
+   "English": "you will"
+ },
+ {
+   "Spanish": "mentira",
+   "English": "lie"
+ },
+ {
+   "Spanish": "tarjeta",
+   "English": "card"
+ },
+ {
+   "Spanish": "hagan",
+   "English": "make"
+ },
+ {
+   "Spanish": "perdí",
+   "English": "I missed"
+ },
+ {
+   "Spanish": "correr",
+   "English": "to run"
+ },
+ {
+   "Spanish": "steve",
+   "English": "steve"
+ },
+ {
+   "Spanish": "traído",
+   "English": "brought"
+ },
+ {
+   "Spanish": "llegue",
+   "English": "I arrived"
+ },
+ {
+   "Spanish": "preparado",
+   "English": "prepared"
+ },
+ {
+   "Spanish": "haberlo",
+   "English": "I have"
+ },
+ {
+   "Spanish": "tony",
+   "English": "tony"
+ },
+ {
+   "Spanish": "usa",
+   "English": "uses"
+ },
+ {
+   "Spanish": "intentar",
+   "English": "try"
+ },
+ {
+   "Spanish": "ayudarme",
+   "English": "help me"
+ },
+ {
+   "Spanish": "flores",
+   "English": "flowers"
+ },
+ {
+   "Spanish": "dando",
+   "English": "giving"
+ },
+ {
+   "Spanish": "vos",
+   "English": "you"
+ },
+ {
+   "Spanish": "opción",
+   "English": "option"
+ },
+ {
+   "Spanish": "isla",
+   "English": "island"
+ },
+ {
+   "Spanish": "cierra",
+   "English": "closes"
+ },
+ {
+   "Spanish": "piel",
+   "English": "skin"
+ },
+ {
+   "Spanish": "enemigo",
+   "English": "enemy"
+ },
+ {
+   "Spanish": "dejo",
+   "English": "left"
+ },
+ {
+   "Spanish": "exacto",
+   "English": "exact"
+ },
+ {
+   "Spanish": "imbécil",
+   "English": "fool"
+ },
+ {
+   "Spanish": "jóvenes",
+   "English": "young boys"
+ },
+ {
+   "Spanish": "pedido",
+   "English": "order"
+ },
+ {
+   "Spanish": "larga",
+   "English": "long"
+ },
+ {
+   "Spanish": "entiende",
+   "English": "understands"
+ },
+ {
+   "Spanish": "justicia",
+   "English": "Justice"
+ },
+ {
+   "Spanish": "nuevos",
+   "English": "new"
+ },
+ {
+   "Spanish": "obviamente",
+   "English": "obviously"
+ },
+ {
+   "Spanish": "despierta",
+   "English": "awake"
+ },
+ {
+   "Spanish": "pido",
+   "English": "I ask"
+ },
+ {
+   "Spanish": "calor",
+   "English": "hot"
+ },
+ {
+   "Spanish": "luces",
+   "English": "lights"
+ },
+ {
+   "Spanish": "refiero",
+   "English": "I mean"
+ },
+ {
+   "Spanish": "fuimos",
+   "English": "we went"
+ },
+ {
+   "Spanish": "batalla",
+   "English": "battle"
+ },
+ {
+   "Spanish": "déjalo",
+   "English": "leave it alone"
+ },
+ {
+   "Spanish": "intenta",
+   "English": "try"
+ },
+ {
+   "Spanish": "sarah",
+   "English": "sarah"
+ },
+ {
+   "Spanish": "fantástico",
+   "English": "fantastic"
+ },
+ {
+   "Spanish": "brazo",
+   "English": "arm"
+ },
+ {
+   "Spanish": "absolutamente",
+   "English": "absolutely"
+ },
+ {
+   "Spanish": "llena",
+   "English": "full"
+ },
+ {
+   "Spanish": "hacerme",
+   "English": "me"
+ },
+ {
+   "Spanish": "salga",
+   "English": "out"
+ },
+ {
+   "Spanish": "recordar",
+   "English": "remember"
+ },
+ {
+   "Spanish": "escapar",
+   "English": "escape"
+ },
+ {
+   "Spanish": "bosque",
+   "English": "forest"
+ },
+ {
+   "Spanish": "gay",
+   "English": "gay"
+ },
+ {
+   "Spanish": "señores",
+   "English": "Sirs"
+ },
+ {
+   "Spanish": "quedan",
+   "English": "are"
+ },
+ {
+   "Spanish": "piernas",
+   "English": "legs"
+ },
+ {
+   "Spanish": "visita",
+   "English": "visit"
+ },
+ {
+   "Spanish": "parís",
+   "English": "Paris"
+ },
+ {
+   "Spanish": "usando",
+   "English": "using"
+ },
+ {
+   "Spanish": "ganado",
+   "English": "won"
+ },
+ {
+   "Spanish": "movimiento",
+   "English": "movement"
+ },
+ {
+   "Spanish": "blanca",
+   "English": "white"
+ },
+ {
+   "Spanish": "rico",
+   "English": "rich"
+ },
+ {
+   "Spanish": "inocente",
+   "English": "innocent"
+ },
+ {
+   "Spanish": "pesar",
+   "English": "to weigh"
+ },
+ {
+   "Spanish": "absoluto",
+   "English": "absolute"
+ },
+ {
+   "Spanish": "vacaciones",
+   "English": "holidays"
+ },
+ {
+   "Spanish": "um",
+   "English": "um"
+ },
+ {
+   "Spanish": "mismos",
+   "English": "same"
+ },
+ {
+   "Spanish": "tomado",
+   "English": "taken"
+ },
+ {
+   "Spanish": "habías",
+   "English": "had"
+ },
+ {
+   "Spanish": "planes",
+   "English": "plans"
+ },
+ {
+   "Spanish": "cine",
+   "English": "cinema"
+ },
+ {
+   "Spanish": "toca",
+   "English": "plays"
+ },
+ {
+   "Spanish": "brillante",
+   "English": "sparkly"
+ },
+ {
+   "Spanish": "confianza",
+   "English": "trust"
+ },
+ {
+   "Spanish": "vuestra",
+   "English": "your"
+ },
+ {
+   "Spanish": "nombres",
+   "English": "Names"
+ },
+ {
+   "Spanish": "especialmente",
+   "English": "especially"
+ },
+ {
+   "Spanish": "fbi",
+   "English": "fbi"
+ },
+ {
+   "Spanish": "embarazada",
+   "English": "pregnant"
+ },
+ {
+   "Spanish": "esperen",
+   "English": "expect"
+ },
+ {
+   "Spanish": "pantalones",
+   "English": "pants"
+ },
+ {
+   "Spanish": "defensa",
+   "English": "defending"
+ },
+ {
+   "Spanish": "terminó",
+   "English": "finished"
+ },
+ {
+   "Spanish": "salido",
+   "English": "stepped out"
+ },
+ {
+   "Spanish": "estupendo",
+   "English": "great"
+ },
+ {
+   "Spanish": "jane",
+   "English": "jane"
+ },
+ {
+   "Spanish": "presión",
+   "English": "Pressure"
+ },
+ {
+   "Spanish": "inmediatamente",
+   "English": "immediately"
+ },
+ {
+   "Spanish": "testigo",
+   "English": "witness"
+ },
+ {
+   "Spanish": "deberían",
+   "English": "should"
+ },
+ {
+   "Spanish": "olvidado",
+   "English": "forgotten"
+ },
+ {
+   "Spanish": "soldados",
+   "English": "soldiers"
+ },
+ {
+   "Spanish": "resulta",
+   "English": "result"
+ },
+ {
+   "Spanish": "tommy",
+   "English": "tommy"
+ },
+ {
+   "Spanish": "depende",
+   "English": "It depends"
+ },
+ {
+   "Spanish": "motivo",
+   "English": "reason"
+ },
+ {
+   "Spanish": "inglés",
+   "English": "English"
+ },
+ {
+   "Spanish": "suya",
+   "English": "hers"
+ },
+ {
+   "Spanish": "estudio",
+   "English": "study"
+ },
+ {
+   "Spanish": "acabar",
+   "English": "finish"
+ },
+ {
+   "Spanish": "sentimientos",
+   "English": "feelings"
+ },
+ {
+   "Spanish": "tomando",
+   "English": "taking"
+ },
+ {
+   "Spanish": "dieron",
+   "English": "they gave"
+ },
+ {
+   "Spanish": "parecen",
+   "English": "they look like"
+ },
+ {
+   "Spanish": "llaves",
+   "English": "keys"
+ },
+ {
+   "Spanish": "perros",
+   "English": "dogs"
+ },
+ {
+   "Spanish": "propósito",
+   "English": "purpose"
+ },
+ {
+   "Spanish": "noticia",
+   "English": "News"
+ },
+ {
+   "Spanish": "partir",
+   "English": "from"
+ },
+ {
+   "Spanish": "vuestro",
+   "English": "your"
+ },
+ {
+   "Spanish": "metros",
+   "English": "meters"
+ },
+ {
+   "Spanish": "santa",
+   "English": "St."
+ },
+ {
+   "Spanish": "quedarse",
+   "English": "stay"
+ },
+ {
+   "Spanish": "clientes",
+   "English": "customers"
+ },
+ {
+   "Spanish": "podrá",
+   "English": "you can"
+ },
+ {
+   "Spanish": "cuántas",
+   "English": "how many"
+ },
+ {
+   "Spanish": "ridículo",
+   "English": "ridiculous"
+ },
+ {
+   "Spanish": "damas",
+   "English": "ladies"
+ },
+ {
+   "Spanish": "estuviste",
+   "English": "you were"
+ },
+ {
+   "Spanish": "tranquila",
+   "English": "quiet"
+ },
+ {
+   "Spanish": "operación",
+   "English": "operation"
+ },
+ {
+   "Spanish": "come",
+   "English": "eat"
+ },
+ {
+   "Spanish": "empresa",
+   "English": "company"
+ },
+ {
+   "Spanish": "ayúdame",
+   "English": "Help me"
+ },
+ {
+   "Spanish": "laboratorio",
+   "English": "laboratory"
+ },
+ {
+   "Spanish": "elección",
+   "English": "choice"
+ },
+ {
+   "Spanish": "menudo",
+   "English": "often"
+ },
+ {
+   "Spanish": "beso",
+   "English": "kiss"
+ },
+ {
+   "Spanish": "copa",
+   "English": "Cup"
+ },
+ {
+   "Spanish": "conversación",
+   "English": "conversation"
+ },
+ {
+   "Spanish": "brazos",
+   "English": "arms"
+ },
+ {
+   "Spanish": "espíritu",
+   "English": "spirit"
+ },
+ {
+   "Spanish": "dejas",
+   "English": "you let"
+ },
+ {
+   "Spanish": "cansado",
+   "English": "tired"
+ },
+ {
+   "Spanish": "interesa",
+   "English": "interested"
+ },
+ {
+   "Spanish": "refieres",
+   "English": "mean"
+ },
+ {
+   "Spanish": "casado",
+   "English": "married"
+ },
+ {
+   "Spanish": "enorme",
+   "English": "huge"
+ },
+ {
+   "Spanish": "asuntos",
+   "English": "issues"
+ },
+ {
+   "Spanish": "fe",
+   "English": "faith"
+ },
+ {
+   "Spanish": "muestra",
+   "English": "sample"
+ },
+ {
+   "Spanish": "trampa",
+   "English": "trap"
+ },
+ {
+   "Spanish": "ray",
+   "English": "ray"
+ },
+ {
+   "Spanish": "billy",
+   "English": "billy"
+ },
+ {
+   "Spanish": "memoria",
+   "English": "memory"
+ },
+ {
+   "Spanish": "johnny",
+   "English": "johnny"
+ },
+ {
+   "Spanish": "contrario",
+   "English": "contrary"
+ },
+ {
+   "Spanish": "soldado",
+   "English": "soldier"
+ },
+ {
+   "Spanish": "subir",
+   "English": "go up"
+ },
+ {
+   "Spanish": "turno",
+   "English": "turn"
+ },
+ {
+   "Spanish": "encantaría",
+   "English": "love"
+ },
+ {
+   "Spanish": "preocupado",
+   "English": "worried"
+ },
+ {
+   "Spanish": "restaurante",
+   "English": "restaurant"
+ },
+ {
+   "Spanish": "saliendo",
+   "English": "coming out"
+ },
+ {
+   "Spanish": "escrito",
+   "English": "written"
+ },
+ {
+   "Spanish": "cálmate",
+   "English": "take it easy"
+ },
+ {
+   "Spanish": "bienvenida",
+   "English": "welcome"
+ },
+ {
+   "Spanish": "caer",
+   "English": "fall out"
+ },
+ {
+   "Spanish": "llevaré",
+   "English": "I'll take"
+ },
+ {
+   "Spanish": "leche",
+   "English": "milk"
+ },
+ {
+   "Spanish": "estrellas",
+   "English": "stars"
+ },
+ {
+   "Spanish": "prefiero",
+   "English": "I prefer"
+ },
+ {
+   "Spanish": "red",
+   "English": "net"
+ },
+ {
+   "Spanish": "viejos",
+   "English": "old"
+ },
+ {
+   "Spanish": "solamente",
+   "English": "only"
+ },
+ {
+   "Spanish": "oiga",
+   "English": "Listen"
+ }
+]
