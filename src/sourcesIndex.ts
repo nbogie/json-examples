@@ -181,12 +181,12 @@ export const index: Source[] = [
         "title": "Studio Ghibli films",
         "description": "Cataloging the people, places, and things found in the worlds of Ghibli",
         "fromAPI": true,
-        "home": "https://ghibliapi.herokuapp.com/",
+        "home": "https://ghibliapi.vercel.app/",
         "examples": [
             {
                 "description": "People in the Studio Ghibli world",
                 "file": "studio_ghibli_people.json",
-                "url": "https://ghibliapi.herokuapp.com/people"
+                "url": "https://ghibliapi.vercel.app/people"
             }
         ]
     },
